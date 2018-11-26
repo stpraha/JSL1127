@@ -1,0 +1,735 @@
+﻿Log file open, 11/18/18 16:07:37
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyFirst2DProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.349810
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.248s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: D:/unreal/Unrealengine/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.18-08.07.38:343][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.18-08.07.38:343][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.18-08.07.38:381][  0]LogHAL: Display: Platform has ~ 8 GB [8474361856 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.18-08.07.38:381][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.18-08.07.38:381][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.18-08.07.38:399][  0]LogInit: Computer: LAPTOP-JLSSE705
+[2018.11.18-08.07.38:399][  0]LogInit: User: 李仁杰
+[2018.11.18-08.07.38:399][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.18-08.07.38:399][  0]LogInit: High frequency timer resolution =2.531251 MHz
+[2018.11.18-08.07.38:399][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.11.18-08.07.38:399][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.18-08.07.38:399][  0]LogMemory: Process Physical Memory: 100.79 MB used, 100.79 MB peak
+[2018.11.18-08.07.38:399][  0]LogMemory: Process Virtual Memory: 85.08 MB used, 85.08 MB peak
+[2018.11.18-08.07.38:399][  0]LogMemory: Physical Memory: 5544.79 MB used,  2537.00 MB free, 8081.78 MB total
+[2018.11.18-08.07.38:399][  0]LogMemory: Virtual Memory: 4639.10 MB used,  2537.00 MB free, 134217728.00 MB total
+[2018.11.18-08.07.38:607][  0]LogInit: Overriding language with editor language configuration option (en).
+[2018.11.18-08.07.38:607][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2018.11.18-08.07.39:386][  0]LogStreaming: Display: Took  0.780s to InitEngineTextLocalization.
+[2018.11.18-08.07.39:386][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.18-08.07.39:649][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.18-08.07.39:649][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.18-08.07.43:586][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.18-08.07.43:586][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.18-08.07.43:728][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 965M' (Feature Level 11_0)
+[2018.11.18-08.07.43:728][  0]LogD3D11RHI:       4053/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.11.18-08.07.43:742][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.11.18-08.07.43:742][  0]LogD3D11RHI:       128/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.11.18-08.07.43:744][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.18-08.07.43:744][  0]LogD3D11RHI:       0/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.18-08.07.43:745][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.18-08.07.43:794][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.18-08.07.43:794][  0]LogD3D11RHI:     GPU DeviceId: 0x1427 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.18-08.07.43:794][  0]LogWindows: EnumDisplayDevices:
+[2018.11.18-08.07.43:794][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.11.18-08.07.43:795][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.11.18-08.07.43:795][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.11.18-08.07.43:796][  0]LogWindows:    3. 'NVIDIA GeForce GTX 965M' (P:0 D:0)
+[2018.11.18-08.07.43:796][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2018.11.18-08.07.43:796][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 965M
+[2018.11.18-08.07.43:796][  0]LogD3D11RHI:   Driver Version: 398.36 (internal:24.21.13.9836, unified:398.36)
+[2018.11.18-08.07.43:796][  0]LogD3D11RHI:      Driver Date: 6-24-2018
+[2018.11.18-08.07.43:796][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2018.11.18-08.07.43:860][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.18-08.07.43:889][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.18-08.07.43:891][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../unreal projects/JiuSeLu-master1112/JiuSeLu-master1112/Intermediate/Shaders/WorkingDirectory/7432/).
+[2018.11.18-08.07.43:891][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/李仁杰/AppData/Local/Temp/UnrealShaderWorkingDir/5356B8C440B0336F160B628872283F54/'.
+[2018.11.18-08.07.44:709][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.18-08.07.44:808][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.18-08.07.44:825][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.18-08.07.44:845][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.18-08.07.44:894][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.18-08.07.44:919][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.18-08.07.44:939][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.18-08.07.44:957][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.18-08.07.44:965][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.18-08.07.45:315][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.18-08.07.45:315][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.18-08.07.45:315][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.18-08.07.45:315][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.18-08.07.45:315][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.18-08.07.45:315][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.18-08.07.45:315][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.18-08.07.45:315][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.18-08.07.45:315][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.18-08.07.45:315][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.18-08.07.45:315][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.18-08.07.45:315][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.18-08.07.45:315][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.18-08.07.45:316][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.18-08.07.45:316][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.18-08.07.45:316][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.18-08.07.45:316][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.18-08.07.45:316][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.18-08.07.45:325][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.18-08.07.45:475][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.18-08.07.45:475][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.18-08.07.45:714][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.18-08.07.45:714][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.18-08.07.45:784][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.18-08.07.45:819][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.18-08.07.45:859][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.18-08.07.45:919][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.18-08.07.45:958][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.18-08.07.45:958][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.18-08.07.46:771][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.18-08.07.46:771][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.18-08.07.46:771][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.18-08.07.50:709][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.18-08.07.51:071][  0]LogDerivedDataCache: Loaded boot cache 0.36s 71MB C:/Users/李仁杰/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.18-08.07.51:072][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/李仁杰/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.18-08.07.51:072][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../unreal projects/JiuSeLu-master1112/JiuSeLu-master1112/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.18-08.07.51:072][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.18-08.07.51:072][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../unreal projects/JiuSeLu-master1112/JiuSeLu-master1112/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.18-08.07.51:072][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.18-08.07.51:180][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.18-08.07.51:194][  0]LogDerivedDataCache: Using Local data cache path C:/Users/李仁杰/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.18-08.07.51:194][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.18-08.07.51:194][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.18-08.07.51:218][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.18-08.07.51:221][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.18-08.07.51:248][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.18-08.07.51:729][  0]LogAssetRegistry: FAssetRegistry took 0.0346 seconds to start up
+[2018.11.18-08.07.52:390][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.18-08.07.53:549][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.18-08.07.53:635][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.18-08.07.53:635][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.18-08.07.53:635][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.18-08.07.53:635][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.18-08.07.53:720][  0]LogNetVersion: MyFirst2DProject 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2512067949)
+[2018.11.18-08.07.55:609][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.130070 seconds
+[2018.11.18-08.07.55:618][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.11.18-08.07.55:618][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.11.18-08.07.55:618][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.18-08.08.09:056][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.18-08.08.09:106][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.18-08.08.10:105][  0]SourceControl: Source control is disabled
+[2018.11.18-08.08.10:105][  0]SourceControl: Source control is disabled
+[2018.11.18-08.08.10:210][  0]SourceControl: Source control is disabled
+[2018.11.18-08.08.10:275][  0]SourceControl: Source control is disabled
+[2018.11.18-08.08.11:998][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.18-08.08.12:396][  0]LogOcInput: OculusInput pre-init called
+[2018.11.18-08.08.12:833][  0]LogEngine: Initializing Engine...
+[2018.11.18-08.08.12:835][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.18-08.08.12:837][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.18-08.08.12:837][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.18-08.08.12:837][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.18-08.08.12:837][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.18-08.08.13:167][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.18-08.08.13:438][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.18-08.08.13:467][  0]LogInit: XAudio2 using '喇叭/耳机 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.18-08.08.13:508][  0]LogInit: FAudioDevice initialized.
+[2018.11.18-08.08.13:508][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.18-08.08.13:620][  0]LogDerivedDataCache: Saved boot cache 0.11s 71MB C:/Users/李仁杰/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.18-08.08.13:631][  0]LogInit: Texture streaming: Enabled
+[2018.11.18-08.08.13:809][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.18-08.08.14:029][  0]LogInit: Transaction tracking system initialized
+[2018.11.18-08.08.14:615][  0]BlueprintLog: New page: Editor Load
+[2018.11.18-08.08.16:064][  0]LocalizationService: Localization service is disabled
+[2018.11.18-08.08.17:721][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.18-08.08.17:721][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.18-08.08.17:772][  0]LogFileCache: Scanning file cache for directory 'D:/unreal projects/JiuSeLu-master1112/JiuSeLu-master1112/Content/' took 0.04s
+[2018.11.18-08.08.17:772][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.18-08.08.17:772][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.18-08.08.17:772][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.18-08.08.17:772][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.18-08.08.17:772][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.18-08.08.19:997][  0]SourceControl: Source control is disabled
+[2018.11.18-08.08.19:997][  0]Cmd: MAP LOAD FILE="../../../../../../unreal projects/JiuSeLu-master1112/JiuSeLu-master1112/Content/cxd/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.18-08.08.20:004][  0]LightingResults: New page: Lighting Build
+[2018.11.18-08.08.20:055][  0]MapCheck: New page: Map Check
+[2018.11.18-08.08.20:055][  0]LightingResults: New page: Lighting Build
+[2018.11.18-08.08.21:508][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.11.18-08.08.21:688][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.18-08.08.21:741][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.18-08.08.21:824][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 83.164ms to complete.
+[2018.11.18-08.08.21:825][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 1.827
+[2018.11.18-08.08.22:814][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.18-08.08.22:851][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.18-08.08.22:861][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.18-08.08.22:872][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.18-08.08.22:964][  0]LogCollectionManager: Loaded 0 collections in 0.001303 seconds
+[2018.11.18-08.08.23:128][  0]LogFileCache: Scanning file cache for directory 'D:/unreal projects/JiuSeLu-master1112/JiuSeLu-master1112/Saved/Collections/' took 0.01s
+[2018.11.18-08.08.23:128][  0]LogFileCache: Scanning file cache for directory 'D:/unreal projects/JiuSeLu-master1112/JiuSeLu-master1112/Content/Developers/李仁杰/Collections/' took 0.01s
+[2018.11.18-08.08.23:128][  0]LogFileCache: Scanning file cache for directory 'D:/unreal projects/JiuSeLu-master1112/JiuSeLu-master1112/Content/Collections/' took 0.01s
+[2018.11.18-08.08.23:128][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.18-08.08.23:142][  0]LogContentBrowser: Native class hierarchy populated in 0.0121 seconds. Added 2572 classes and 603 folders.
+[2018.11.18-08.08.23:322][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.11.18-08.08.24:786][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.18-08.08.24:824][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.11.18-08.08.25:364][  0]LogSlate: Took 0.019462 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.18-08.08.25:398][  0]LogSlate: Took 0.022687 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.18-08.08.25:448][  0]LogSlate: Took 0.014866 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.18-08.08.25:934][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2018.11.18-08.08.26:670][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.18-08.08.26:670][  0]LogLoad: (Engine Initialization) Total time: 58.86 seconds
+[2018.11.18-08.08.26:670][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.18-08.08.26:692][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2018.11.18-08.08.26:777][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.18-08.08.26:912][  0]LogSlate: Took 0.013918 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.18-08.08.26:939][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/unreal projects/JiuSeLu-master1112/JiuSeLu-master1112/Content/' took 0.20s
+[2018.11.18-08.08.26:955][  1]LogAssetRegistry: Asset discovery search completed in 35.2488 seconds
+[2018.11.18-08.08.26:957][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.18-08.08.26:957][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000045 seconds (updated 0 objects)
+[2018.11.18-08.08.35:213][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-08.08.35:301][837]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.18-08.08.35:373][837]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.18-08.08.35:398][837]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.18-08.08.35:531][837]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 19, 2018, 12:08:35 AM)
+[2018.11.18-08.08.35:553][837]LogPlayLevel: Creating play world package: /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2018.11.18-08.08.35:656][837]LogPlayLevel: PIE: StaticDuplicateObject took: (0.102357s)
+[2018.11.18-08.08.35:657][837]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.11.18-08.08.35:683][837]LogPlayLevel: PIE: World Init took: (0.027243s)
+[2018.11.18-08.08.35:702][837]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.148586s)
+[2018.11.18-08.08.35:762][837]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	GameINS_C /Engine/Transient.UnrealEdEngine_0:GameINS_C_0
+	Function /Game/LRJ/GameINS.GameINS_C:ExecuteUbergraph_GameINS:05AC
+[2018.11.18-08.08.35:805][837]LogInit: XAudio2 using '喇叭/耳机 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.18-08.08.35:826][837]LogInit: FAudioDevice initialized.
+[2018.11.18-08.08.35:923][837]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.18-08.08.36:059][837]LogWorld: Bringing World /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2018.11.18-16.08.36
+[2018.11.18-08.08.36:137][837]LogWorld: Bringing up level for play took: 0.103662
+[2018.11.18-08.08.36:194][837]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.18-08.08.36:325][837]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0110 seconds. Added 10 classes and 0 folders.
+[2018.11.18-08.08.36:371][837]PIE: Play in editor start time for /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap 1.906
+[2018.11.18-08.08.36:371][837]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.18-08.08.46:673][857]LogBlueprintUserMessages: [0] 1
+[2018.11.18-08.08.49:611][162]LogBlueprintUserMessages: [3] 2
+[2018.11.18-08.08.49:612][162]LogBlueprintUserMessages: [0] Level Completed!
+[2018.11.18-08.08.49:612][162]LogBlueprintUserMessages: [1] Level Completed!
+[2018.11.18-08.08.49:612][162]LogBlueprintUserMessages: [2] Level Completed!
+[2018.11.18-08.08.49:612][162]LogBlueprintUserMessages: [3] Level Completed!
+[2018.11.18-08.08.49:612][162]LogBlueprintUserMessages: [4] Level Completed!
+[2018.11.18-08.08.52:693][486]LogBlueprintUserMessages: [Block6_17] 1
+[2018.11.18-08.08.53:300][551]LogBlueprintUserMessages: [Block2_5] 2
+[2018.11.18-08.08.53:301][551]LogBlueprintUserMessages: [Block2_5] Level Completed!
+[2018.11.18-08.08.53:301][551]LogBlueprintUserMessages: [Block3_8] Level Completed!
+[2018.11.18-08.08.53:301][551]LogBlueprintUserMessages: [Block4_11] Level Completed!
+[2018.11.18-08.08.53:301][551]LogBlueprintUserMessages: [Block5_14] Level Completed!
+[2018.11.18-08.08.53:301][551]LogBlueprintUserMessages: [Block6_17] Level Completed!
+[2018.11.18-08.08.53:301][551]LogBlueprintUserMessages: [Block7_20] Level Completed!
+[2018.11.18-08.08.53:301][551]LogBlueprintUserMessages: [Block_2] Level Completed!
+[2018.11.18-08.08.56:570][896]LogBlueprintUserMessages: [Block10_29] 1
+[2018.11.18-08.08.57:926][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-08.08.57:994][ 33]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.18-08.08.58:040][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.18-08.08.58:134][ 33]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.18-08.08.58:134][ 33]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.18-08.08.58:220][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.18-08.08.58:287][ 34]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2018.11.18-08.09.03:303][560]LogSlate: Took 0.000319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.18-08.09.03:335][560]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/LRJ/Block.Block
+[2018.11.18-08.09.04:336][560]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.11.18-08.09.06:685][560]LogSlate: Took 0.012604 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.18-08.09.07:602][561]LogSlate: Took 0.049544 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.11.18-08.09.07:612][561]LogSlate: Took 0.006308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.18-08.09.54:810][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-08.09.58:401][258]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-08.10.37:992][760]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/cxd/Maps/gameManager.gameManager
+[2018.11.18-08.10.41:246][885]LogSlate: Window 'gameManager' being destroyed
+[2018.11.18-08.10.42:535][979]LogSlate: Window 'gameManager' being destroyed
+[2018.11.18-08.16.04:094][ 73]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.18-08.16.04:127][ 73]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.18-08.16.04:127][ 73]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.18-08.16.04:127][ 73]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 19, 2018, 12:16:04 AM)
+[2018.11.18-08.16.04:128][ 73]LogPlayLevel: Creating play world package: /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2018.11.18-08.16.04:140][ 73]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012378s)
+[2018.11.18-08.16.04:141][ 73]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.11.18-08.16.04:142][ 73]LogPlayLevel: PIE: World Init took: (0.001276s)
+[2018.11.18-08.16.04:142][ 73]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.013857s)
+[2018.11.18-08.16.04:232][ 73]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	GameINS_C /Engine/Transient.UnrealEdEngine_0:GameINS_C_1
+	Function /Game/LRJ/GameINS.GameINS_C:ExecuteUbergraph_GameINS:05AC
+[2018.11.18-08.16.04:237][ 73]LogInit: XAudio2 using '喇叭/耳机 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.18-08.16.04:269][ 73]LogInit: FAudioDevice initialized.
+[2018.11.18-08.16.04:317][ 73]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.18-08.16.04:322][ 73]LogWorld: Bringing World /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2018.11.18-16.16.04
+[2018.11.18-08.16.04:323][ 73]LogWorld: Bringing up level for play took: 0.005786
+[2018.11.18-08.16.04:336][ 73]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.18-08.16.04:337][ 73]PIE: Play in editor start time for /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.127
+[2018.11.18-08.16.04:338][ 73]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.18-08.16.07:749][356]LogBlueprintUserMessages: [0] 1
+[2018.11.18-08.16.24:916][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-08.16.51:557][517]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.18-08.16.51:558][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.18-08.16.51:685][517]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.18-08.16.51:685][517]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.18-08.16.51:727][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.18-08.16.51:941][518]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2018.11.18-08.17.12:295][915]LogEditorViewport: Clicking on Actor (LMB): Block_C (3)
+[2018.11.18-08.17.13:698][  8]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-08.17.21:147][661]LogEditorViewport: Clicking on Actor (LMB): Block_C (Block)
+[2018.11.18-08.17.22:589][744]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-08.17.54:079][894]LogEditorViewport: Clicking on Actor (LMB): Block_C (Block4)
+[2018.11.18-08.17.56:523][ 95]LogEditorViewport: Clicking on Actor (LMB): Block_C (2)
+[2018.11.18-08.17.58:383][284]LogEditorViewport: Clicking on Actor (LMB): Block_C (0)
+[2018.11.18-08.18.09:153][344]LogEditorViewport: Clicking on Actor (LMB): Block_C (3)
+[2018.11.18-08.18.11:401][547]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-08.18.38:064][508]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-08.18.42:763][896]LogEditorViewport: Clicking on Actor (LMB): Block_C (0)
+[2018.11.18-08.18.46:404][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-08.18.46:925][232]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/LRJ/GameINS.GameINS
+[2018.11.18-08.18.59:805][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-08.19.18:416][804]BlueprintLog: New page: Compile GameINS
+[2018.11.18-08.20.33:643][244]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2018.11.18-08.21.58:525][710]LogEditorViewport: Clicking Background
+[2018.11.18-08.21.59:336][786]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-08.22.07:940][533]LogEditorViewport: Clicking on Actor (LMB): Block_C (0)
+[2018.11.18-08.22.09:160][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-08.24.47:970][116]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.18-08.24.48:003][116]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.18-08.24.48:003][116]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.11.18-08.24.48:071][116]LogPlayLevel: [PlayLevel] Compiling gameManager before play...
+[2018.11.18-08.24.48:783][116]LogPlayLevel: PlayLevel: Blueprint regeneration took 779 ms (1 blueprints)
+[2018.11.18-08.24.48:783][116]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 19, 2018, 12:24:48 AM)
+[2018.11.18-08.24.48:784][116]LogPlayLevel: Creating play world package: /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2018.11.18-08.24.48:790][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006685s)
+[2018.11.18-08.24.48:791][116]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.11.18-08.24.48:791][116]LogPlayLevel: PIE: World Init took: (0.000643s)
+[2018.11.18-08.24.48:791][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.007496s)
+[2018.11.18-08.24.48:831][116]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	GameINS_C /Engine/Transient.UnrealEdEngine_0:GameINS_C_2
+	Function /Game/LRJ/GameINS.GameINS_C:ExecuteUbergraph_GameINS:05AC
+[2018.11.18-08.24.48:886][116]LogInit: XAudio2 using '喇叭/耳机 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.18-08.24.48:917][116]LogInit: FAudioDevice initialized.
+[2018.11.18-08.24.48:941][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.18-08.24.49:079][116]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.18-08.24.49:086][116]LogWorld: Bringing World /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2018.11.18-16.24.49
+[2018.11.18-08.24.49:087][116]LogWorld: Bringing up level for play took: 0.007066
+[2018.11.18-08.24.49:100][116]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.18-08.24.49:102][116]PIE: Play in editor start time for /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.639
+[2018.11.18-08.24.49:103][116]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.18-08.24.49:261][116]LogRenderer: Reallocating scene render targets to support 1024x576 Format 10 NumSamples 1 (Frame:1).
+[2018.11.18-08.24.51:824][267]LogSlate: Window 'MyFirst2DProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.18-08.24.51:837][267]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.18-08.24.51:897][267]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.18-08.24.51:897][267]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.18-08.24.51:971][268]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.11.18-08.25.07:606][551]LogEditorViewport: Clicking on Actor (LMB): Container_C (Container)
+[2018.11.18-08.25.07:976][588]LogEditorViewport: Clicking on Actor (LMB): Container_C (Container3)
+[2018.11.18-08.25.08:485][637]LogEditorViewport: Clicking on Actor (LMB): Container_C (Container2)
+[2018.11.18-08.25.08:898][680]LogEditorViewport: Clicking on Actor (LMB): Container_C (Container1)
+[2018.11.18-08.25.09:331][724]LogEditorViewport: Clicking on Actor (LMB): Container_C (Container2)
+[2018.11.18-08.25.09:932][785]LogEditorViewport: Clicking on Actor (LMB): Container_C (Container3)
+[2018.11.18-08.25.10:443][837]LogEditorViewport: Clicking on Actor (LMB): Container_C (Container)
+[2018.11.18-08.25.15:693][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-08.25.19:728][757]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/LRJ/Container.Container
+[2018.11.18-08.25.47:153][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-08.25.56:209][974]LogSlate: Took 0.014108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.11.18-08.26.11:172][454]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-08.28.01:663][393]Cmd: TRANSACTION UNDO
+[2018.11.18-08.28.01:663][393]LogEditorTransaction: Undo Move Nodes
+[2018.11.18-08.28.20:696][675]Cmd: TRANSACTION UNDO
+[2018.11.18-08.28.20:696][675]LogEditorTransaction: Undo Paste clipboard contents
+[2018.11.18-08.29.59:773][532]LogEditorViewport: Clicking on Actor (LMB): Block_C (0)
+[2018.11.18-08.30.04:178][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-08.32.02:134][ 92]BlueprintLog: New page: Compile gameManager
+[2018.11.18-08.32.33:178][314]LogEditorViewport: Clicking Background
+[2018.11.18-08.32.33:716][372]LogEditorViewport: Clicking on Actor (LMB): Block_C (3)
+[2018.11.18-08.32.35:994][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-08.33.07:508][776]LogEditorViewport: Clicking on Actor (LMB): Block_C (4)
+[2018.11.18-08.33.08:464][860]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-08.33.28:789][442]BlueprintLog: New page: Compile gameManager
+[2018.11.18-08.33.36:934][817]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.18-08.33.36:994][817]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.18-08.33.36:994][817]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.11.18-08.33.37:030][817]LogPlayLevel: [PlayLevel] Compiling GameINS before play...
+[2018.11.18-08.33.37:180][817]LogPlayLevel: PlayLevel: Blueprint regeneration took 186 ms (1 blueprints)
+[2018.11.18-08.33.37:180][817]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 19, 2018, 12:33:37 AM)
+[2018.11.18-08.33.37:181][817]LogPlayLevel: Creating play world package: /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2018.11.18-08.33.37:189][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007836s)
+[2018.11.18-08.33.37:190][817]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.11.18-08.33.37:191][817]LogPlayLevel: PIE: World Init took: (0.001875s)
+[2018.11.18-08.33.37:191][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.009952s)
+[2018.11.18-08.33.37:229][817]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	GameINS_C /Engine/Transient.UnrealEdEngine_0:GameINS_C_3
+	Function /Game/LRJ/GameINS.GameINS_C:ExecuteUbergraph_GameINS:05AC
+[2018.11.18-08.33.37:236][817]LogInit: XAudio2 using '喇叭/耳机 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.18-08.33.37:263][817]LogInit: FAudioDevice initialized.
+[2018.11.18-08.33.37:276][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.18-08.33.37:441][817]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.18-08.33.37:446][817]LogWorld: Bringing World /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2018.11.18-16.33.37
+[2018.11.18-08.33.37:446][817]LogWorld: Bringing up level for play took: 0.004294
+[2018.11.18-08.33.37:459][817]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.18-08.33.37:462][817]PIE: Play in editor start time for /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.997
+[2018.11.18-08.33.37:462][817]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.18-08.33.38:830][858]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	2DSideScrollerCharacter_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:0686
+[2018.11.18-08.33.38:831][858]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.38:831][858]LogScript: Warning: Attempt to assign variable through None
+	2DSideScrollerCharacter_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:0686
+[2018.11.18-08.33.38:831][858]PIE: Error: Blueprint Runtime Error: "Attempt to assign variable through None". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.38:831][858]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	2DSideScrollerCharacter_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:06B8
+[2018.11.18-08.33.38:831][858]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.38:831][858]LogScript: Warning: Accessed None
+	2DSideScrollerCharacter_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:06A3
+[2018.11.18-08.33.38:831][858]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.38:831][858]LogScript: Warning: Attempt to assign variable through None
+	2DSideScrollerCharacter_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:06B8
+[2018.11.18-08.33.38:831][858]PIE: Error: Blueprint Runtime Error: "Attempt to assign variable through None". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.38:832][858]LogScript: Warning: Accessed None trying to read property Allblocks
+	2DSideScrollerCharacter_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:06D5
+[2018.11.18-08.33.38:832][858]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Allblocks". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.38:832][858]LogScript: Warning: Attempt to assign variable through None
+	2DSideScrollerCharacter_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:06EA
+[2018.11.18-08.33.38:832][858]PIE: Error: Blueprint Runtime Error: "Attempt to assign variable through None". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.38:832][858]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	2DSideScrollerCharacter_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:0713
+[2018.11.18-08.33.38:832][858]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.38:832][858]LogScript: Warning: Accessed None
+	2DSideScrollerCharacter_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:06FE
+[2018.11.18-08.33.38:832][858]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.38:832][858]LogScript: Warning: Attempt to assign variable through None
+	2DSideScrollerCharacter_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:0713
+[2018.11.18-08.33.38:832][858]PIE: Error: Blueprint Runtime Error: "Attempt to assign variable through None". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.38:833][858]LogBlueprintUserMessages: [0] 1
+[2018.11.18-08.33.38:833][858]LogScript: Warning: Accessed None trying to read property CallFunc_Conv_StringToInt_ReturnValue
+	2DSideScrollerCharacter_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:063B
+[2018.11.18-08.33.38:833][858]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Conv_StringToInt_ReturnValue". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.39:697][890]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	2DSideScrollerCharacter_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:0686
+[2018.11.18-08.33.39:697][890]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.39:697][890]LogScript: Warning: Attempt to assign variable through None
+	2DSideScrollerCharacter_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:0686
+[2018.11.18-08.33.39:697][890]PIE: Error: Blueprint Runtime Error: "Attempt to assign variable through None". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.39:698][890]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	2DSideScrollerCharacter_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:06B8
+[2018.11.18-08.33.39:698][890]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.39:698][890]LogScript: Warning: Accessed None
+	2DSideScrollerCharacter_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:06A3
+[2018.11.18-08.33.39:698][890]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.39:698][890]LogScript: Warning: Attempt to assign variable through None
+	2DSideScrollerCharacter_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:06B8
+[2018.11.18-08.33.39:698][890]PIE: Error: Blueprint Runtime Error: "Attempt to assign variable through None". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.39:698][890]LogScript: Warning: Accessed None trying to read property Allblocks
+	2DSideScrollerCharacter_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:06D5
+[2018.11.18-08.33.39:698][890]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Allblocks". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.39:698][890]LogScript: Warning: Attempt to assign variable through None
+	2DSideScrollerCharacter_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:06EA
+[2018.11.18-08.33.39:698][890]PIE: Error: Blueprint Runtime Error: "Attempt to assign variable through None". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.39:698][890]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	2DSideScrollerCharacter_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:0713
+[2018.11.18-08.33.39:698][890]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.39:698][890]LogScript: Warning: Accessed None
+	2DSideScrollerCharacter_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:06FE
+[2018.11.18-08.33.39:698][890]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.39:699][890]LogScript: Warning: Attempt to assign variable through None
+	2DSideScrollerCharacter_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:0713
+[2018.11.18-08.33.39:699][890]PIE: Error: Blueprint Runtime Error: "Attempt to assign variable through None". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.39:699][890]LogBlueprintUserMessages: [3] 1
+[2018.11.18-08.33.39:699][890]LogScript: Warning: Accessed None trying to read property CallFunc_Conv_StringToInt_ReturnValue
+	2DSideScrollerCharacter_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:063B
+[2018.11.18-08.33.39:699][890]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Conv_StringToInt_ReturnValue". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.40:884][933]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	2DSideScrollerCharacter_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:0686
+[2018.11.18-08.33.40:885][933]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.40:885][933]LogScript: Warning: Attempt to assign variable through None
+	2DSideScrollerCharacter_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:0686
+[2018.11.18-08.33.40:886][933]PIE: Error: Blueprint Runtime Error: "Attempt to assign variable through None". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.40:886][933]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	2DSideScrollerCharacter_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:06B8
+[2018.11.18-08.33.40:886][933]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.40:886][933]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.40:886][933]PIE: Error: Blueprint Runtime Error: "Attempt to assign variable through None". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.40:886][933]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Allblocks". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.40:887][933]PIE: Error: Blueprint Runtime Error: "Attempt to assign variable through None". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.40:887][933]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	2DSideScrollerCharacter_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:0713
+[2018.11.18-08.33.40:887][933]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.40:887][933]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.40:887][933]PIE: Error: Blueprint Runtime Error: "Attempt to assign variable through None". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.40:887][933]LogBlueprintUserMessages: [4] 1
+[2018.11.18-08.33.40:887][933]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Conv_StringToInt_ReturnValue". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.47:030][179]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	2DSideScrollerCharacter_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:0686
+[2018.11.18-08.33.47:030][179]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.47:030][179]PIE: Error: Blueprint Runtime Error: "Attempt to assign variable through None". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.47:030][179]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	2DSideScrollerCharacter_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:06B8
+[2018.11.18-08.33.47:030][179]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.47:031][179]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.47:031][179]PIE: Error: Blueprint Runtime Error: "Attempt to assign variable through None". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.47:031][179]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Allblocks". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.47:031][179]PIE: Error: Blueprint Runtime Error: "Attempt to assign variable through None". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.47:031][179]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	2DSideScrollerCharacter_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:0713
+[2018.11.18-08.33.47:031][179]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.47:031][179]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.47:031][179]PIE: Error: Blueprint Runtime Error: "Attempt to assign variable through None". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.47:031][179]LogBlueprintUserMessages: [4] 1
+[2018.11.18-08.33.47:032][179]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Conv_StringToInt_ReturnValue". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.47:748][209]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	2DSideScrollerCharacter_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:0686
+[2018.11.18-08.33.47:748][209]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.47:748][209]PIE: Error: Blueprint Runtime Error: "Attempt to assign variable through None". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.47:748][209]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	2DSideScrollerCharacter_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:06B8
+[2018.11.18-08.33.47:748][209]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.47:748][209]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.47:748][209]PIE: Error: Blueprint Runtime Error: "Attempt to assign variable through None". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.47:748][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Allblocks". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.47:749][209]PIE: Error: Blueprint Runtime Error: "Attempt to assign variable through None". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.47:749][209]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	2DSideScrollerCharacter_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:0713
+[2018.11.18-08.33.47:749][209]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.47:749][209]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.47:749][209]PIE: Error: Blueprint Runtime Error: "Attempt to assign variable through None". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.47:749][209]LogBlueprintUserMessages: [3] 1
+[2018.11.18-08.33.47:749][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Conv_StringToInt_ReturnValue". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.48:099][222]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	2DSideScrollerCharacter_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254
+	Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:0686
+[2018.11.18-08.33.48:099][222]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.48:099][222]PIE: Error: Blueprint Runtime Error: "Attempt to assign variable through None". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.48:100][222]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.48:100][222]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.48:100][222]PIE: Error: Blueprint Runtime Error: "Attempt to assign variable through None". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.48:100][222]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Allblocks". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.48:100][222]PIE: Error: Blueprint Runtime Error: "Attempt to assign variable through None". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.48:100][222]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.48:101][222]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.48:101][222]PIE: Error: Blueprint Runtime Error: "Attempt to assign variable through None". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.48:101][222]LogBlueprintUserMessages: [0] 1
+[2018.11.18-08.33.48:101][222]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Conv_StringToInt_ReturnValue". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Click on Block
+[2018.11.18-08.33.48:101][222]LogBlueprintUserMessages: [0] Level Completed!
+[2018.11.18-08.33.48:102][222]LogBlueprintUserMessages: [1] Level Completed!
+[2018.11.18-08.33.48:102][222]LogBlueprintUserMessages: [2] Level Completed!
+[2018.11.18-08.33.48:102][222]LogBlueprintUserMessages: [3] Level Completed!
+[2018.11.18-08.33.48:102][222]LogBlueprintUserMessages: [4] Level Completed!
+[2018.11.18-08.33.51:299][345]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-08.33.51:398][348]LogSlate: Window 'MyFirst2DProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.18-08.33.51:410][348]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.18-08.33.51:500][348]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.18-08.33.51:500][348]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.18-08.33.51:742][349]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.11.18-08.33.54:243][463]LogUObjectArray: Warning: Other object in slot
+[2018.11.18-08.33.56:538][463]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.253 s
+[2018.11.18-08.33.56:538][463]LogOutputDevice: Error: === Handled ensure: ===
+[2018.11.18-08.33.56:538][463]LogOutputDevice: Error: 
+[2018.11.18-08.33.56:538][463]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1142]
+[2018.11.18-08.33.56:538][463]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.11.18-08.33.56:538][463]LogOutputDevice: Error: Stack: 
+[2018.11.18-08.33.56:538][463]LogOutputDevice: Error: [Callstack] 0x00007ff8943871e6 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.18-08.33.56:538][463]LogOutputDevice: Error: [Callstack] 0x00007ff8940c0c82 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.18-08.33.56:538][463]LogOutputDevice: Error: [Callstack] 0x00007ff8940db346 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.18-08.33.56:538][463]LogOutputDevice: Error: [Callstack] 0x00007ff8918311db UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.18-08.33.56:538][463]LogOutputDevice: Error: [Callstack] 0x00007ff89184060e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.18-08.33.56:539][463]LogOutputDevice: Error: [Callstack] 0x00007ff89037da3a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.11.18-08.33.56:539][463]LogOutputDevice: Error: [Callstack] 0x00007ff8857aec2a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.11.18-08.33.56:539][463]LogOutputDevice: Error: [Callstack] 0x00007ff88576f337 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.11.18-08.33.56:539][463]LogOutputDevice: Error: [Callstack] 0x00007ff8959a8204 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.18-08.33.56:539][463]LogOutputDevice: Error: [Callstack] 0x00007ff895bee933 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.18-08.33.56:539][463]LogOutputDevice: Error: [Callstack] 0x00007ff895a0281a UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.18-08.33.56:539][463]LogOutputDevice: Error: [Callstack] 0x00007ff8959d8190 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.18-08.33.56:539][463]LogOutputDevice: Error: [Callstack] 0x00007ff8959cb073 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.18-08.33.56:539][463]LogOutputDevice: Error: [Callstack] 0x00007ff8c429d007 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.18-08.33.56:539][463]LogOutputDevice: Error: [Callstack] 0x00007ff8c4290270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.18-08.33.56:539][463]LogOutputDevice: Error: [Callstack] 0x00007ff8c429f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.18-08.33.56:539][463]LogOutputDevice: Error: [Callstack] 0x00007ff8c428c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.18-08.33.56:539][463]LogOutputDevice: Error: [Callstack] 0x00007ff8e5a06cc1 USER32.dll!UnknownFunction []
+[2018.11.18-08.33.56:539][463]LogOutputDevice: Error: [Callstack] 0x00007ff8e5a06693 USER32.dll!UnknownFunction []
+[2018.11.18-08.33.56:539][463]LogOutputDevice: Error: [Callstack] 0x00007ff8c42a0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.18-08.33.56:539][463]LogOutputDevice: Error: [Callstack] 0x00007ff75e6054e5 UE4Editor.exe!UnknownFunction []
+[2018.11.18-08.33.56:539][463]LogOutputDevice: Error: [Callstack] 0x00007ff75e615b3c UE4Editor.exe!UnknownFunction []
+[2018.11.18-08.33.56:539][463]LogOutputDevice: Error: [Callstack] 0x00007ff75e615bba UE4Editor.exe!UnknownFunction []
+[2018.11.18-08.33.56:539][463]LogOutputDevice: Error: [Callstack] 0x00007ff75e623dac UE4Editor.exe!UnknownFunction []
+[2018.11.18-08.33.56:539][463]LogOutputDevice: Error: [Callstack] 0x00007ff75e625aaa UE4Editor.exe!UnknownFunction []
+[2018.11.18-08.33.56:539][463]LogOutputDevice: Error: [Callstack] 0x00007ff8e57c3034 KERNEL32.DLL!UnknownFunction []
+[2018.11.18-08.33.56:539][463]LogOutputDevice: Error: [Callstack] 0x00007ff8e5f61461 ntdll.dll!UnknownFunction []
+[2018.11.18-08.33.56:539][463]LogOutputDevice: Error: 
+[2018.11.18-08.33.56:545][463]LogStats:                SubmitErrorReport -  0.005 s

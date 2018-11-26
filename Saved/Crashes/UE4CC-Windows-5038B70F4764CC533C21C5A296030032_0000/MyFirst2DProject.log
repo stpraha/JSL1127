@@ -1,0 +1,1362 @@
+﻿Log file open, 11/27/18 02:09:02
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyFirst2DProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.178779
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.445s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 7 (Service Pack 1), CPU:        Intel(R) Core(TM) i5-2500K CPU @ 3.30GHz, GPU: NVIDIA GeForce GTX 760
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: G:/Epic Games/UR4engine/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.26-18.09.03:229][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.26-18.09.03:229][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.26-18.09.03:260][  0]LogHAL: Display: Platform has ~ 8 GB [8503017472 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.26-18.09.03:260][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.26-18.09.03:260][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.26-18.09.03:260][  0]LogInit: Computer: STPRAHA-PC
+[2018.11.26-18.09.03:260][  0]LogInit: User: Administrator
+[2018.11.26-18.09.03:260][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.26-18.09.03:261][  0]LogInit: High frequency timer resolution =3.215380 MHz
+[2018.11.26-18.09.03:261][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.11.26-18.09.03:261][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.26-18.09.03:261][  0]LogMemory: Process Physical Memory: 101.43 MB used, 101.43 MB peak
+[2018.11.26-18.09.03:261][  0]LogMemory: Process Virtual Memory: 94.14 MB used, 94.14 MB peak
+[2018.11.26-18.09.03:261][  0]LogMemory: Physical Memory: 3863.21 MB used,  4245.89 MB free, 8109.11 MB total
+[2018.11.26-18.09.03:261][  0]LogMemory: Virtual Memory: 477.46 MB used,  4245.89 MB free, 8388608.00 MB total
+[2018.11.26-18.09.03:296][  0]LogInit: Overriding language with editor language configuration option (en).
+[2018.11.26-18.09.03:296][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2018.11.26-18.09.03:732][  0]LogStreaming: Display: Took  0.436s to InitEngineTextLocalization.
+[2018.11.26-18.09.03:735][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.11.26-18.09.03:735][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.11.26-18.09.03:735][  0]LogInit: Setting process to DPI aware
+[2018.11.26-18.09.03:762][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.26-18.09.03:762][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.26-18.09.04:059][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.26-18.09.04:059][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.26-18.09.04:105][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 760' (Feature Level 11_0)
+[2018.11.26-18.09.04:105][  0]LogD3D11RHI:       1979/0/3798 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.11.26-18.09.04:109][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 3000' (Feature Level 10_0)
+[2018.11.26-18.09.04:109][  0]LogD3D11RHI:       64/0/1632 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.11.26-18.09.04:109][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.26-18.09.04:116][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.26-18.09.04:117][  0]LogD3D11RHI:     GPU DeviceId: 0x1187 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.26-18.09.04:117][  0]LogWindows: EnumDisplayDevices:
+[2018.11.26-18.09.04:117][  0]LogWindows:    0. 'NVIDIA GeForce GTX 760' (P:1 D:1)
+[2018.11.26-18.09.04:117][  0]LogWindows:    1. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2018.11.26-18.09.04:118][  0]LogWindows:    2. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2018.11.26-18.09.04:118][  0]LogWindows:    3. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2018.11.26-18.09.04:118][  0]LogWindows:    4. 'Intel(R) HD Graphics 3000' (P:0 D:0)
+[2018.11.26-18.09.04:118][  0]LogWindows:    5. 'Intel(R) HD Graphics 3000' (P:0 D:0)
+[2018.11.26-18.09.04:119][  0]LogWindows:    6. 'RDPDD Chained DD' (P:0 D:0)
+[2018.11.26-18.09.04:119][  0]LogWindows:    7. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2018.11.26-18.09.04:119][  0]LogWindows:    8. 'RDP Reflector Display Driver' (P:0 D:0)
+[2018.11.26-18.09.04:119][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.11.26-18.09.04:119][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 760
+[2018.11.26-18.09.04:119][  0]LogD3D11RHI:   Driver Version: 390.77 (internal:23.21.13.9077, unified:390.77)
+[2018.11.26-18.09.04:119][  0]LogD3D11RHI:      Driver Date: 1-23-2018
+[2018.11.26-18.09.04:119][  0]LogRHI: Texture pool is 1385 MB (70% of 1979 MB)
+[2018.11.26-18.09.04:138][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.26-18.09.04:154][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.26-18.09.04:157][  0]LogShaderCompilers: Guid format shader working directory is -47 characters bigger than the processId version (../../../../../Project/JiuSeLu-master112611/JiuSeLu-master1118/JiuSeLu-master1112/JiuSeLu-master1127/Intermediate/Shaders/WorkingDirectory/12808/).
+[2018.11.26-18.09.04:157][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Administrator/AppData/Local/Temp/UnrealShaderWorkingDir/8E946EE948911DF435E547B5E746D9B4/'.
+[2018.11.26-18.09.04:489][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.26-18.09.04:505][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.26-18.09.04:521][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.26-18.09.04:537][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.26-18.09.04:553][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.26-18.09.04:569][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.26-18.09.04:586][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.26-18.09.04:602][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.26-18.09.04:609][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.26-18.09.04:707][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-18.09.04:707][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-18.09.04:707][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-18.09.04:707][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-18.09.04:707][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-18.09.04:707][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-18.09.04:707][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-18.09.04:707][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-18.09.04:707][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-18.09.04:707][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-18.09.04:707][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-18.09.04:707][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-18.09.04:708][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-18.09.04:708][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-18.09.04:708][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-18.09.04:708][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-18.09.04:708][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-18.09.04:708][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-18.09.04:709][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.26-18.09.04:774][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.26-18.09.04:774][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.26-18.09.04:805][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.26-18.09.04:805][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.26-18.09.04:821][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.26-18.09.04:837][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.26-18.09.04:853][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.26-18.09.04:870][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.26-18.09.04:882][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.26-18.09.04:882][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.26-18.09.04:934][  0]LogXGEController: Cleaning working directory: C:/Users/Administrator/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.26-18.09.04:934][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.26-18.09.04:934][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.26-18.09.04:934][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.26-18.09.05:796][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.26-18.09.05:865][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.26-18.09.05:865][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Administrator/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.26-18.09.05:865][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Project/JiuSeLu-master112611/JiuSeLu-master1118/JiuSeLu-master1112/JiuSeLu-master1127/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.26-18.09.05:865][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.26-18.09.05:865][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Project/JiuSeLu-master112611/JiuSeLu-master1118/JiuSeLu-master1112/JiuSeLu-master1127/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.26-18.09.05:865][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.26-18.09.05:881][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.26-18.09.05:894][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.26-18.09.05:894][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.26-18.09.05:894][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.26-18.09.05:917][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.26-18.09.05:918][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.26-18.09.05:919][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.26-18.09.06:005][  0]LogAssetRegistry: FAssetRegistry took 0.0260 seconds to start up
+[2018.11.26-18.09.06:423][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.26-18.09.06:593][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.26-18.09.06:596][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.26-18.09.06:596][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.26-18.09.06:596][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.26-18.09.06:596][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.26-18.09.06:613][  0]LogNetVersion: MyFirst2DProject 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2512067949)
+[2018.11.26-18.09.07:217][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.096394 seconds
+[2018.11.26-18.09.07:224][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.11.26-18.09.07:224][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.11.26-18.09.07:224][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.26-18.09.08:222][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.26-18.09.08:234][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.26-18.09.08:408][  0]SourceControl: Source control is disabled
+[2018.11.26-18.09.08:408][  0]SourceControl: Source control is disabled
+[2018.11.26-18.09.08:409][  0]SourceControl: Source control is disabled
+[2018.11.26-18.09.08:410][  0]SourceControl: Source control is disabled
+[2018.11.26-18.09.08:583][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.26-18.09.08:686][  0]LogOcInput: OculusInput pre-init called
+[2018.11.26-18.09.08:753][  0]LogEngine: Initializing Engine...
+[2018.11.26-18.09.08:754][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.26-18.09.08:756][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.26-18.09.08:757][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.26-18.09.08:757][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.26-18.09.08:757][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.26-18.09.09:012][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.26-18.09.09:025][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.26-18.09.09:043][  0]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.26-18.09.09:056][  0]LogInit: FAudioDevice initialized.
+[2018.11.26-18.09.09:057][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.26-18.09.09:181][  0]LogDerivedDataCache: Saved boot cache 0.12s 71MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.26-18.09.09:189][  0]LogInit: Texture streaming: Enabled
+[2018.11.26-18.09.09:212][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.26-18.09.09:227][  0]LogInit: Transaction tracking system initialized
+[2018.11.26-18.09.09:247][  0]BlueprintLog: New page: Editor Load
+[2018.11.26-18.09.09:313][  0]LocalizationService: Localization service is disabled
+[2018.11.26-18.09.09:677][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.26-18.09.09:677][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.26-18.09.09:677][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.26-18.09.09:677][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.26-18.09.09:677][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.26-18.09.09:677][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.26-18.09.09:677][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.26-18.09.09:794][  0]LogFileCache: Scanning file cache for directory 'G:/Epic Games/Project/JiuSeLu-master112611/JiuSeLu-master1118/JiuSeLu-master1112/JiuSeLu-master1127/Content/' took 0.04s
+[2018.11.26-18.09.09:794][  0]SourceControl: Source control is disabled
+[2018.11.26-18.09.09:795][  0]LightingResults: New page: Lighting Build
+[2018.11.26-18.09.09:797][  0]MapCheck: New page: Map Check
+[2018.11.26-18.09.09:797][  0]LightingResults: New page: Lighting Build
+[2018.11.26-18.09.11:570][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.11.26-18.09.11:628][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.26-18.09.11:655][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.26-18.09.11:719][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 63.569ms to complete.
+[2018.11.26-18.09.11:719][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 1.925
+[2018.11.26-18.09.11:822][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-18.09.11:831][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-18.09.11:840][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-18.09.11:849][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-18.09.11:856][  0]LogCollectionManager: Loaded 0 collections in 0.001497 seconds
+[2018.11.26-18.09.11:898][  0]LogFileCache: Scanning file cache for directory 'G:/Epic Games/Project/JiuSeLu-master112611/JiuSeLu-master1118/JiuSeLu-master1112/JiuSeLu-master1127/Saved/Collections/' took 0.01s
+[2018.11.26-18.09.11:898][  0]LogFileCache: Scanning file cache for directory 'G:/Epic Games/Project/JiuSeLu-master112611/JiuSeLu-master1118/JiuSeLu-master1112/JiuSeLu-master1127/Content/Developers/Administrator/Collections/' took 0.01s
+[2018.11.26-18.09.11:898][  0]LogFileCache: Scanning file cache for directory 'G:/Epic Games/Project/JiuSeLu-master112611/JiuSeLu-master1118/JiuSeLu-master1112/JiuSeLu-master1127/Content/Collections/' took 0.01s
+[2018.11.26-18.09.11:898][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.11.26-18.09.11:909][  0]LogContentBrowser: Native class hierarchy populated in 0.0105 seconds. Added 2572 classes and 603 folders.
+[2018.11.26-18.09.11:915][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.26-18.09.11:972][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.26-18.09.11:977][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.11.26-18.09.12:132][  0]LogSlate: Took 0.000305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.26-18.09.12:136][  0]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.26-18.09.12:140][  0]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.26-18.09.12:217][  0]LogRenderer: Reallocating scene render targets to support 976x524 Format 10 NumSamples 1 (Frame:1).
+[2018.11.26-18.09.12:362][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.11.26-18.09.12:362][  0]LogLoad: (Engine Initialization) Total time: 11.39 seconds
+[2018.11.26-18.09.12:362][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.26-18.09.12:408][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.26-18.09.12:437][  0]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.26-18.09.12:468][  1]LogAssetRegistry: Asset discovery search completed in 6.4841 seconds
+[2018.11.26-18.09.12:470][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.26-18.09.12:470][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000058 seconds (updated 0 objects)
+[2018.11.26-18.09.15:385][343]LogSlate: Took 0.000319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.26-18.09.15:390][344]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-18.09.15:585][361]LogRenderer: Reallocating scene render targets to support 984x524 Format 10 NumSamples 1 (Frame:349).
+[2018.11.26-18.09.15:624][361]LogRenderer: Reallocating scene render targets to support 1020x524 Format 10 NumSamples 1 (Frame:351).
+[2018.11.26-18.09.15:670][362]LogRenderer: Reallocating scene render targets to support 1140x524 Format 10 NumSamples 1 (Frame:353).
+[2018.11.26-18.09.15:720][363]LogRenderer: Reallocating scene render targets to support 1220x524 Format 10 NumSamples 1 (Frame:355).
+[2018.11.26-18.09.15:769][364]LogRenderer: Reallocating scene render targets to support 1260x524 Format 10 NumSamples 1 (Frame:357).
+[2018.11.26-18.09.15:819][365]LogRenderer: Reallocating scene render targets to support 1304x524 Format 10 NumSamples 1 (Frame:359).
+[2018.11.26-18.09.15:869][366]LogRenderer: Reallocating scene render targets to support 1356x524 Format 10 NumSamples 1 (Frame:361).
+[2018.11.26-18.09.15:919][367]LogRenderer: Reallocating scene render targets to support 1404x524 Format 10 NumSamples 1 (Frame:363).
+[2018.11.26-18.09.15:968][369]LogRenderer: Reallocating scene render targets to support 1440x524 Format 10 NumSamples 1 (Frame:365).
+[2018.11.26-18.09.16:012][370]LogRenderer: Reallocating scene render targets to support 1448x524 Format 10 NumSamples 1 (Frame:367).
+[2018.11.26-18.09.16:051][371]LogRenderer: Reallocating scene render targets to support 1452x524 Format 10 NumSamples 1 (Frame:369).
+[2018.11.26-18.09.16:128][373]LogRenderer: Reallocating scene render targets to support 1460x524 Format 10 NumSamples 1 (Frame:373).
+[2018.11.26-18.09.16:170][374]LogRenderer: Reallocating scene render targets to support 1464x524 Format 10 NumSamples 1 (Frame:375).
+[2018.11.26-18.09.16:207][375]LogRenderer: Reallocating scene render targets to support 1468x524 Format 10 NumSamples 1 (Frame:377).
+[2018.11.26-18.09.16:247][376]LogRenderer: Reallocating scene render targets to support 1476x524 Format 10 NumSamples 1 (Frame:379).
+[2018.11.26-18.09.16:292][377]LogRenderer: Reallocating scene render targets to support 1480x524 Format 10 NumSamples 1 (Frame:381).
+[2018.11.26-18.09.16:328][378]LogRenderer: Reallocating scene render targets to support 1496x524 Format 10 NumSamples 1 (Frame:383).
+[2018.11.26-18.09.16:367][379]LogRenderer: Reallocating scene render targets to support 1508x524 Format 10 NumSamples 1 (Frame:385).
+[2018.11.26-18.09.16:404][380]LogRenderer: Reallocating scene render targets to support 1520x524 Format 10 NumSamples 1 (Frame:387).
+[2018.11.26-18.09.16:458][381]LogRenderer: Reallocating scene render targets to support 1544x524 Format 10 NumSamples 1 (Frame:389).
+[2018.11.26-18.09.16:503][382]LogRenderer: Reallocating scene render targets to support 1556x524 Format 10 NumSamples 1 (Frame:391).
+[2018.11.26-18.09.16:584][384]LogRenderer: Reallocating scene render targets to support 1560x524 Format 10 NumSamples 1 (Frame:395).
+[2018.11.26-18.09.16:626][385]LogRenderer: Reallocating scene render targets to support 1564x524 Format 10 NumSamples 1 (Frame:397).
+[2018.11.26-18.09.17:452][477]LogFileCache: Retrieving MD5 hashes for directory 'G:/Epic Games/Project/JiuSeLu-master112611/JiuSeLu-master1118/JiuSeLu-master1112/JiuSeLu-master1127/Content/' took 5.06s
+[2018.11.26-18.09.29:502][659]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.26-18.09.29:521][659]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.09.29:521][659]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.26-18.09.29:532][659]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 27, 2018, 10:09:29 AM)
+[2018.11.26-18.09.29:560][659]LogPlayLevel: Creating play world package: /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2018.11.26-18.09.29:575][659]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014859s)
+[2018.11.26-18.09.29:576][659]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.11.26-18.09.29:576][659]LogPlayLevel: PIE: World Init took: (0.000850s)
+[2018.11.26-18.09.29:576][659]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.015894s)
+[2018.11.26-18.09.29:599][659]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	GameINS_C /Engine/Transient.UnrealEdEngine_0:GameINS_C_0
+	Function /Game/LRJ/GameINS.GameINS_C:ExecuteUbergraph_GameINS:0D2D
+[2018.11.26-18.09.29:607][659]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.26-18.09.29:621][659]LogInit: FAudioDevice initialized.
+[2018.11.26-18.09.29:658][659]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.26-18.09.29:669][659]LogWorld: Bringing World /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2018.11.27-02.09.29
+[2018.11.26-18.09.29:670][659]LogWorld: Bringing up level for play took: 0.010995
+[2018.11.26-18.09.29:681][659]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.26-18.09.29:686][659]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2018.11.26-18.09.29:687][659]PIE: Play in editor start time for /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.203
+[2018.11.26-18.09.29:687][659]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.09.31:313][845]LogBlueprintUserMessages: [Container_2] here
+[2018.11.26-18.09.32:902][ 23]LogBlueprintUserMessages: [0] 1
+[2018.11.26-18.09.32:902][ 23]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Mirror_ref_4_EB9F438046D2613DBAE98AAA55CFC910' of length 0 in '/Game/DataStructure/MirrorRef.MirrorRef'!
+[2018.11.26-18.09.33:352][ 77]LogBlueprintUserMessages: [3] 2
+[2018.11.26-18.09.33:352][ 77]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Mirror_ref_4_EB9F438046D2613DBAE98AAA55CFC910' of length 0 in '/Game/DataStructure/MirrorRef.MirrorRef'!
+[2018.11.26-18.09.33:352][ 77]LogBlueprintUserMessages: [4] Level Completed!
+[2018.11.26-18.09.33:352][ 77]LogBlueprintUserMessages: [gameManager_2] setguoguan
+[2018.11.26-18.09.33:352][ 77]LogBlueprintUserMessages: [4] here
+[2018.11.26-18.09.34:935][267]LogBlueprintUserMessages: [Block6_17] 1
+[2018.11.26-18.09.34:936][267]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Mirror_ref_4_EB9F438046D2613DBAE98AAA55CFC910' of length 0 in '/Game/DataStructure/MirrorRef.MirrorRef'!
+[2018.11.26-18.09.35:260][306]LogBlueprintUserMessages: [Block2_5] 2
+[2018.11.26-18.09.35:261][306]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Mirror_ref_4_EB9F438046D2613DBAE98AAA55CFC910' of length 0 in '/Game/DataStructure/MirrorRef.MirrorRef'!
+[2018.11.26-18.09.35:261][306]LogBlueprintUserMessages: [Block_2] Level Completed!
+[2018.11.26-18.09.35:261][306]LogBlueprintUserMessages: [gameManager_2] setguoguan
+[2018.11.26-18.09.35:261][306]LogBlueprintUserMessages: [Block_2] here
+[2018.11.26-18.09.40:352][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-18.09.40:471][931]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.09.40:471][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-18.09.40:503][931]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.26-18.09.40:504][931]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.09.40:528][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-18.09.40:571][935]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2018.11.26-18.10.02:211][465]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/walker/HUD/HUD.HUD
+[2018.11.26-18.10.02:901][465]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.11.26-18.10.04:078][465]LogSlate: Took 0.000284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.26-18.10.08:307][761]LogSlate: Window 'HUD' being destroyed
+[2018.11.26-18.10.18:079][845]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.26-18.10.18:100][845]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.10.18:100][845]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.26-18.10.18:100][845]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 27, 2018, 10:10:18 AM)
+[2018.11.26-18.10.18:101][845]LogPlayLevel: Creating play world package: /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2018.11.26-18.10.18:115][845]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014210s)
+[2018.11.26-18.10.18:116][845]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.11.26-18.10.18:116][845]LogPlayLevel: PIE: World Init took: (0.000770s)
+[2018.11.26-18.10.18:116][845]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.015124s)
+[2018.11.26-18.10.18:153][845]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	GameINS_C /Engine/Transient.UnrealEdEngine_0:GameINS_C_1
+	Function /Game/LRJ/GameINS.GameINS_C:ExecuteUbergraph_GameINS:0D2D
+[2018.11.26-18.10.18:161][845]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.26-18.10.18:174][845]LogInit: FAudioDevice initialized.
+[2018.11.26-18.10.18:179][845]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-18.10.18:212][845]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.26-18.10.18:222][845]LogWorld: Bringing World /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2018.11.27-02.10.18
+[2018.11.26-18.10.18:223][845]LogWorld: Bringing up level for play took: 0.010861
+[2018.11.26-18.10.18:234][845]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.26-18.10.18:237][845]PIE: Play in editor start time for /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.346
+[2018.11.26-18.10.18:237][845]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.10.18:252][845]LogRenderer: Reallocating scene render targets to support 1564x756 Format 10 NumSamples 1 (Frame:1).
+[2018.11.26-18.10.19:891][ 25]LogBlueprintUserMessages: [Container_2] here
+[2018.11.26-18.10.21:170][155]LogSlate: Window 'MyFirst2DProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.26-18.10.21:172][155]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.10.21:200][155]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.26-18.10.21:201][155]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.10.21:257][157]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2018.11.26-18.10.25:857][681]LogAIModule: Creating AISystem for world StartLevel
+[2018.11.26-18.10.25:880][681]LogAssetEditorManager: Opening Asset editor for World /Game/walker/Level/StartLevel.StartLevel
+[2018.11.26-18.10.25:910][681]Cmd: MAP LOAD FILE="../../../../../Project/JiuSeLu-master112611/JiuSeLu-master1118/JiuSeLu-master1112/JiuSeLu-master1127/Content/walker/Level/StartLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.26-18.10.25:910][681]LightingResults: New page: Lighting Build
+[2018.11.26-18.10.25:911][681]LoadErrors: New page: Loading map: StartLevel.umap
+[2018.11.26-18.10.25:913][681]MapCheck: New page: Map Check
+[2018.11.26-18.10.25:913][681]LightingResults: New page: Lighting Build
+[2018.11.26-18.10.26:038][681]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.26-18.10.26:099][681]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.26-18.10.26:176][681]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 75.852ms to complete.
+[2018.11.26-18.10.26:176][681]LogFileHelpers: Loading map 'StartLevel' took 0.266
+[2018.11.26-18.10.27:756][866]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.26-18.10.27:777][866]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/walker/Level/StartLevel.StartLevel:PersistentLevel' has LevelScriptBlueprint '/Game/walker/Level/StartLevel.StartLevel:PersistentLevel.StartLevel' with GeneratedClass '/Game/walker/Level/StartLevel.StartLevel_C' with ClassGeneratedBy '/Game/walker/Level/StartLevel.StartLevel:PersistentLevel.StartLevel'
+[2018.11.26-18.10.27:777][866]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.26-18.10.27:777][866]PIE: New page: PIE session: StartLevel (Nov 27, 2018, 10:10:27 AM)
+[2018.11.26-18.10.27:782][866]LogPlayLevel: Creating play world package: /Game/walker/Level/UEDPIE_0_StartLevel
+[2018.11.26-18.10.27:783][866]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001156s)
+[2018.11.26-18.10.27:784][866]LogAIModule: Creating AISystem for world StartLevel
+[2018.11.26-18.10.27:784][866]LogPlayLevel: PIE: World Init took: (0.000739s)
+[2018.11.26-18.10.27:784][866]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/walker/Level/StartLevel.StartLevel to /Game/walker/Level/UEDPIE_0_StartLevel.StartLevel (0.002042s)
+[2018.11.26-18.10.27:813][866]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	GameINS_C /Engine/Transient.UnrealEdEngine_0:GameINS_C_2
+	Function /Game/LRJ/GameINS.GameINS_C:ExecuteUbergraph_GameINS:0D2D
+[2018.11.26-18.10.27:821][866]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.26-18.10.27:834][866]LogInit: FAudioDevice initialized.
+[2018.11.26-18.10.27:863][866]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.26-18.10.27:864][866]LogWorld: Bringing World /Game/walker/Level/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 0) at 2018.11.27-02.10.27
+[2018.11.26-18.10.27:864][866]LogWorld: Bringing up level for play took: 0.000376
+[2018.11.26-18.10.27:879][866]PIE: Play in editor start time for /Game/walker/Level/UEDPIE_0_StartLevel -0.011
+[2018.11.26-18.10.27:879][866]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/walker/Level/StartLevel.StartLevel:PersistentLevel' has LevelScriptBlueprint '/Game/walker/Level/StartLevel.StartLevel:PersistentLevel.StartLevel' with GeneratedClass '/Game/walker/Level/StartLevel.StartLevel_C' with ClassGeneratedBy '/Game/walker/Level/StartLevel.StartLevel:PersistentLevel.StartLevel'
+[2018.11.26-18.10.27:887][866]LogSlate: Took 0.002577 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.11.26-18.10.31:603][311]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-18.10.41:519][495]PIE: Warning: The widget 'LevelSelection_C' was already added to the screen.
+[2018.11.26-18.10.42:318][591]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-18.10.47:928][264]LogScript: Warning: Attempted to access index 3 from array LevelNames of length 3!
+	LevelSelection_C /Engine/Transient.UnrealEdEngine_0:GameINS_C_2.LevelSelection_C_0
+	Function /Game/walker/Widgets/LevelSelection.LevelSelection_C:SwitchLevelNameRight:0644
+[2018.11.26-18.10.47:928][264]LogScript: Warning: Attempted to access index 3 from array LevelLabelNames of length 3!
+	LevelSelection_C /Engine/Transient.UnrealEdEngine_0:GameINS_C_2.LevelSelection_C_0
+	Function /Game/walker/Widgets/LevelSelection.LevelSelection_C:SwitchLevelNameRight:06DD
+[2018.11.26-18.10.47:928][264]LogBlueprintUserMessages: [LevelSelection_C_0] 1
+[2018.11.26-18.10.48:445][326]LogBlueprintUserMessages: [LevelSelection_C_0] 0
+[2018.11.26-18.10.51:730][720]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/walker/Level/StartLevel.StartLevel:PersistentLevel' has LevelScriptBlueprint '/Game/walker/Level/StartLevel.StartLevel:PersistentLevel.StartLevel' with GeneratedClass '/Game/walker/Level/StartLevel.StartLevel_C' with ClassGeneratedBy '/Game/walker/Level/StartLevel.StartLevel:PersistentLevel.StartLevel'
+[2018.11.26-18.10.51:731][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-18.10.51:760][720]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.26-18.10.51:761][720]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/walker/Level/StartLevel.StartLevel:PersistentLevel' has LevelScriptBlueprint '/Game/walker/Level/StartLevel.StartLevel:PersistentLevel.StartLevel' with GeneratedClass '/Game/walker/Level/StartLevel.StartLevel_C' with ClassGeneratedBy '/Game/walker/Level/StartLevel.StartLevel:PersistentLevel.StartLevel'
+[2018.11.26-18.10.51:792][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-18.10.51:836][722]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.11.26-18.11.19:328][972]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/walker/Widgets/LevelItem.LevelItem
+[2018.11.26-18.11.21:995][148]LogSlate: Window 'LevelItem' being destroyed
+[2018.11.26-18.11.22:767][232]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/walker/Widgets/LevelSelection.LevelSelection
+[2018.11.26-18.11.24:876][357]LogSlate: Window 'LevelSelection' being destroyed
+[2018.11.26-18.11.25:875][468]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/walker/Widgets/MenuWidget.MenuWidget
+[2018.11.26-18.11.28:038][592]LogSlate: Window 'MenuWidget' being destroyed
+[2018.11.26-18.11.28:889][685]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/walker/Widgets/SignInWidget.SignInWidget
+[2018.11.26-18.11.30:963][813]LogSlate: Window 'SignInWidget' being destroyed
+[2018.11.26-18.11.31:915][919]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/walker/Widgets/StartLevelWidget.StartLevelWidget
+[2018.11.26-18.11.34:013][ 41]LogSlate: Window 'StartLevelWidget' being destroyed
+[2018.11.26-18.11.34:995][149]LogAssetEditorManager: Opening Asset editor for UserDefinedEnum /Game/walker/Widgets/SlideOp.SlideOp
+[2018.11.26-18.11.36:873][337]LogSlate: Window 'SlideOp' being destroyed
+[2018.11.26-18.11.39:603][660]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/walker/HUD/HUD.HUD
+[2018.11.26-18.12.00:725][ 82]LogBlueprint: Warning: [Compiler choseActor] No delegate property found for  NewEventDispatcher_0
+[2018.11.26-18.12.00:731][ 82]LogBlueprint: Warning: [Compiler choseActor] [0179.76] Compile of choseActor successful, but with 1 Warning(s) [in 43 ms] (/Game/cxd/Maps/choseActor.choseActor)
+[2018.11.26-18.12.01:325][ 82]LogAIModule: Creating AISystem for world selectLevel
+[2018.11.26-18.12.02:830][ 82]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.26-18.12.15:239][126]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.26-18.12.21:077][627]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.26-18.12.25:148][ 87]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.11.26-18.12.25:186][ 87]LogAssetEditorManager: Opening Asset editor for World /Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2018.11.26-18.12.25:218][ 87]LightingResults: New page: Lighting Build
+[2018.11.26-18.12.25:219][ 87]LoadErrors: New page: Loading map: 2DSideScrollerExampleMap.umap
+[2018.11.26-18.12.25:219][ 87]MapCheck: New page: Map Check
+[2018.11.26-18.12.25:219][ 87]LightingResults: New page: Lighting Build
+[2018.11.26-18.12.25:416][ 87]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.26-18.12.25:479][ 87]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.26-18.12.25:555][ 87]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 76.401ms to complete.
+[2018.11.26-18.12.25:555][ 87]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.338
+[2018.11.26-18.12.28:314][397]LogEditorViewport: Clicking Background
+[2018.11.26-18.12.30:237][626]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-18.12.32:338][832]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-18.12.34:106][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-18.12.34:545][ 92]LogEditorViewport: Clicking Background
+[2018.11.26-18.13.08:144][472]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-18.16.23:667][ 14]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap
+[2018.11.26-18.18.17:417][918]LogSlate: Took 0.000352 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.11.26-18.19.43:347][848]LogSlate: Window 'Change Variable Type' being destroyed
+[2018.11.26-18.19.45:339][ 55]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.11.26-18.19.45:340][ 55]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.11.26-18.20.07:099][428]LogSlate: Window 'Change Variable Type' being destroyed
+[2018.11.26-18.20.07:105][428]LogClass: Warning: Type mismatch in HUD of SKEL_2DSideScrollerExampleMap_C - Previous (StructProperty) Current(ObjectProperty) for package:  FObjectReader
+[2018.11.26-18.20.08:790][610]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.11.26-18.20.08:792][610]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.11.26-18.20.40:315][ 80]LogSlate: Window 'Change Variable Type' being destroyed
+[2018.11.26-18.20.42:219][302]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.11.26-18.20.42:220][302]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.11.26-18.20.53:959][554]LogSlate: Window 'Change Variable Type' being destroyed
+[2018.11.26-18.20.56:068][800]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.11.26-18.20.56:070][800]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.11.26-18.21.15:361][729]LogSlate: Took 0.000305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.26-18.21.21:438][451]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.26-18.21.21:461][451]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.21.21:461][451]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.11.26-18.21.21:464][451]LogPlayLevel: [PlayLevel] Compiling 2DSideScrollerExampleMap before play...
+[2018.11.26-18.21.21:640][451]LogPlayLevel: PlayLevel: Blueprint regeneration took 178 ms (1 blueprints)
+[2018.11.26-18.21.21:640][451]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 27, 2018, 10:21:21 AM)
+[2018.11.26-18.21.21:645][451]LogPlayLevel: Creating play world package: /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2018.11.26-18.21.21:661][451]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015593s)
+[2018.11.26-18.21.21:661][451]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.11.26-18.21.21:661][451]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2018.11.26-18.21.21:661][451]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.016512s)
+[2018.11.26-18.21.21:693][451]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	GameINS_C /Engine/Transient.UnrealEdEngine_0:GameINS_C_3
+	Function /Game/LRJ/GameINS.GameINS_C:ExecuteUbergraph_GameINS:0D2D
+[2018.11.26-18.21.21:702][451]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.26-18.21.21:716][451]LogInit: FAudioDevice initialized.
+[2018.11.26-18.21.21:722][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-18.21.21:753][451]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.26-18.21.21:763][451]LogWorld: Bringing World /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2018.11.27-02.21.21
+[2018.11.26-18.21.21:764][451]LogWorld: Bringing up level for play took: 0.010909
+[2018.11.26-18.21.21:775][451]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.26-18.21.21:777][451]LogScript: Warning: Accessed None trying to read property HUD
+	2DSideScrollerExampleMap_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap_C_0
+	Function /Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C:ExecuteUbergraph_2DSideScrollerExampleMap:0037
+[2018.11.26-18.21.21:777][451]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUD". Blueprint:  2DSideScrollerExampleMap Function:  Execute Ubergraph 2DSide Scroller Example Map Graph:  EventGraph Node:  Add to Viewport
+[2018.11.26-18.21.21:778][451]PIE: Play in editor start time for /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.118
+[2018.11.26-18.21.21:778][451]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.21.23:290][613]LogBlueprintUserMessages: [Container_2] here
+[2018.11.26-18.21.26:214][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-18.21.26:629][ 12]LogSlate: Window 'MyFirst2DProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.26-18.21.26:632][ 12]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.21.26:667][ 12]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.26-18.21.26:668][ 12]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.21.26:744][ 13]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.11.26-18.21.35:240][  5]LogSlate: Window 'Message Log' being destroyed
+[2018.11.26-18.21.35:242][  5]LogSlate: Window 'Message Log' being destroyed
+[2018.11.26-18.21.49:023][659]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.26-18.21.49:046][659]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.21.49:046][659]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.26-18.21.49:046][659]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 27, 2018, 10:21:49 AM)
+[2018.11.26-18.21.49:047][659]LogPlayLevel: Creating play world package: /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2018.11.26-18.21.49:062][659]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014933s)
+[2018.11.26-18.21.49:063][659]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.11.26-18.21.49:063][659]LogPlayLevel: PIE: World Init took: (0.000764s)
+[2018.11.26-18.21.49:063][659]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.015851s)
+[2018.11.26-18.21.49:093][659]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	GameINS_C /Engine/Transient.UnrealEdEngine_0:GameINS_C_4
+	Function /Game/LRJ/GameINS.GameINS_C:ExecuteUbergraph_GameINS:0D2D
+[2018.11.26-18.21.49:101][659]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.26-18.21.49:114][659]LogInit: FAudioDevice initialized.
+[2018.11.26-18.21.49:119][659]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-18.21.49:148][659]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.26-18.21.49:158][659]LogWorld: Bringing World /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2018.11.27-02.21.49
+[2018.11.26-18.21.49:159][659]LogWorld: Bringing up level for play took: 0.010885
+[2018.11.26-18.21.49:170][659]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.26-18.21.49:172][659]LogScript: Warning: Accessed None trying to read property HUD
+	2DSideScrollerExampleMap_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap_C_0
+	Function /Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C:ExecuteUbergraph_2DSideScrollerExampleMap:0037
+[2018.11.26-18.21.49:172][659]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUD". Blueprint:  2DSideScrollerExampleMap Function:  Execute Ubergraph 2DSide Scroller Example Map Graph:  EventGraph Node:  Add to Viewport
+[2018.11.26-18.21.49:173][659]PIE: Play in editor start time for /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.723
+[2018.11.26-18.21.49:174][659]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.21.50:835][837]LogBlueprintUserMessages: [Container_2] here
+[2018.11.26-18.21.57:699][659]LogSlate: Window 'MyFirst2DProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.26-18.21.57:702][659]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.21.57:738][659]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.26-18.21.57:738][659]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.21.57:814][660]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.11.26-18.22.10:467][549]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\ADMINI~1\AppData\Local\Temp\360zip$Temp\360$0\第一章全图.jpg)
+[2018.11.26-18.22.10:727][549]LogTexture: Display: Building textures: 第一章全图 (AutoDXT, 5760X1080)
+[2018.11.26-18.22.53:920][360]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-18.22.54:858][472]LogEditorViewport: Clicking Background
+[2018.11.26-18.22.57:663][807]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2018.11.26-18.22.58:416][884]Cmd: DELETE
+[2018.11.26-18.22.58:416][884]Cmd: ACTOR DELETE
+[2018.11.26-18.22.58:764][884]LogEditorActor: Deleted Actor: TextRenderActor
+[2018.11.26-18.22.58:805][884]LogEditorActor: Deleted 1 Actors (0.128 secs)
+[2018.11.26-18.23.00:038][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-18.23.17:856][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-18.23.20:811][358]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (第一章全图_Sprite)
+[2018.11.26-18.23.28:977][250]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (第一章全图_Sprite)
+[2018.11.26-18.23.37:952][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-18.23.38:043][241]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.26-18.23.38:066][241]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.23.38:066][241]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.26-18.23.38:066][241]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 27, 2018, 10:23:38 AM)
+[2018.11.26-18.23.38:067][241]LogPlayLevel: Creating play world package: /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2018.11.26-18.23.38:082][241]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014858s)
+[2018.11.26-18.23.38:082][241]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.11.26-18.23.38:083][241]LogPlayLevel: PIE: World Init took: (0.000818s)
+[2018.11.26-18.23.38:083][241]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.015870s)
+[2018.11.26-18.23.38:114][241]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	GameINS_C /Engine/Transient.UnrealEdEngine_0:GameINS_C_5
+	Function /Game/LRJ/GameINS.GameINS_C:ExecuteUbergraph_GameINS:0D2D
+[2018.11.26-18.23.38:123][241]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.26-18.23.38:135][241]LogInit: FAudioDevice initialized.
+[2018.11.26-18.23.38:162][241]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.26-18.23.38:172][241]LogWorld: Bringing World /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2018.11.27-02.23.38
+[2018.11.26-18.23.38:173][241]LogWorld: Bringing up level for play took: 0.010437
+[2018.11.26-18.23.38:184][241]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.26-18.23.38:249][241]LogScript: Warning: Accessed None trying to read property HUD
+	2DSideScrollerExampleMap_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap_C_0
+	Function /Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C:ExecuteUbergraph_2DSideScrollerExampleMap:0037
+[2018.11.26-18.23.38:249][241]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUD". Blueprint:  2DSideScrollerExampleMap Function:  Execute Ubergraph 2DSide Scroller Example Map Graph:  EventGraph Node:  Add to Viewport
+[2018.11.26-18.23.38:250][241]PIE: Play in editor start time for /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.352
+[2018.11.26-18.23.38:250][241]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.23.44:379][972]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-18.23.44:464][982]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.23.44:464][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-18.23.44:501][982]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.26-18.23.44:502][982]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.23.44:534][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-18.23.44:584][984]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.11.26-18.23.53:435][889]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (第一章全图_Sprite)
+[2018.11.26-18.23.54:679][992]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-18.23.57:339][266]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.26-18.23.57:361][266]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.23.57:361][266]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.26-18.23.57:361][266]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 27, 2018, 10:23:57 AM)
+[2018.11.26-18.23.57:362][266]LogPlayLevel: Creating play world package: /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2018.11.26-18.23.57:377][266]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014965s)
+[2018.11.26-18.23.57:377][266]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.11.26-18.23.57:377][266]LogPlayLevel: PIE: World Init took: (0.000732s)
+[2018.11.26-18.23.57:378][266]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.015853s)
+[2018.11.26-18.23.57:410][266]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	GameINS_C /Engine/Transient.UnrealEdEngine_0:GameINS_C_6
+	Function /Game/LRJ/GameINS.GameINS_C:ExecuteUbergraph_GameINS:0D2D
+[2018.11.26-18.23.57:418][266]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.26-18.23.57:431][266]LogInit: FAudioDevice initialized.
+[2018.11.26-18.23.57:461][266]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.26-18.23.57:472][266]LogWorld: Bringing World /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2018.11.27-02.23.57
+[2018.11.26-18.23.57:473][266]LogWorld: Bringing up level for play took: 0.011280
+[2018.11.26-18.23.57:540][266]LogScript: Warning: Accessed None trying to read property HUD
+	2DSideScrollerExampleMap_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap_C_0
+	Function /Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C:ExecuteUbergraph_2DSideScrollerExampleMap:0037
+[2018.11.26-18.23.57:540][266]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUD". Blueprint:  2DSideScrollerExampleMap Function:  Execute Ubergraph 2DSide Scroller Example Map Graph:  EventGraph Node:  Add to Viewport
+[2018.11.26-18.23.57:540][266]PIE: Play in editor start time for /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.357
+[2018.11.26-18.23.57:541][266]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.23.58:336][352]LogCharacterMovement: 2DSideScrollerCharacter_254 is stuck and failed to move! Velocity: X=600.00 Y=0.00 Z=0.00 Location: X=-1500.00 Y=0.00 Z=932.03 Normal: X=0.00 Y=1.00 Z=0.00 PenetrationDepth:46.965 Actor:第一章全图_Sprite_2 Component:RenderComponent BoneName:None (86 other events since notify)
+[2018.11.26-18.23.59:337][472]LogCharacterMovement: 2DSideScrollerCharacter_254 is stuck and failed to move! Velocity: X=600.00 Y=0.00 Z=0.00 Location: X=-1500.00 Y=0.00 Z=932.03 Normal: X=0.00 Y=1.00 Z=0.00 PenetrationDepth:46.965 Actor:第一章全图_Sprite_2 Component:RenderComponent BoneName:None (119 other events since notify)
+[2018.11.26-18.24.00:383][589]LogCharacterMovement: 2DSideScrollerCharacter_254 is stuck and failed to move! Velocity: X=600.00 Y=0.00 Z=0.00 Location: X=-1500.00 Y=0.00 Z=932.03 Normal: X=0.00 Y=1.00 Z=0.00 PenetrationDepth:46.965 Actor:第一章全图_Sprite_2 Component:RenderComponent BoneName:None (116 other events since notify)
+[2018.11.26-18.24.03:392][946]LogBlueprintUserMessages: [Block12_11] 1
+[2018.11.26-18.24.03:392][946]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Mirror_ref_4_EB9F438046D2613DBAE98AAA55CFC910' of length 0 in '/Game/DataStructure/MirrorRef.MirrorRef'!
+[2018.11.26-18.24.03:650][977]LogBlueprintUserMessages: [Block13_14] 2
+[2018.11.26-18.24.03:650][977]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Mirror_ref_4_EB9F438046D2613DBAE98AAA55CFC910' of length 0 in '/Game/DataStructure/MirrorRef.MirrorRef'!
+[2018.11.26-18.24.03:925][ 10]LogBlueprintUserMessages: [Block14_17] 3
+[2018.11.26-18.24.03:925][ 10]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Mirror_ref_4_EB9F438046D2613DBAE98AAA55CFC910' of length 0 in '/Game/DataStructure/MirrorRef.MirrorRef'!
+[2018.11.26-18.24.04:791][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-18.24.04:886][125]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.24.04:887][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-18.24.04:923][125]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.26-18.24.04:923][125]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.24.04:957][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-18.24.04:985][126]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.11.26-18.24.07:970][452]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (第一章全图_Sprite)
+[2018.11.26-18.24.10:713][737]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-18.24.11:395][810]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.11.26-18.24.11:428][810]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2018.11.26-18.24.12:416][925]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.26-18.24.12:437][925]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.24.12:437][925]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.26-18.24.12:437][925]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 27, 2018, 10:24:12 AM)
+[2018.11.26-18.24.12:438][925]LogPlayLevel: Creating play world package: /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2018.11.26-18.24.12:453][925]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015416s)
+[2018.11.26-18.24.12:454][925]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.11.26-18.24.12:454][925]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2018.11.26-18.24.12:454][925]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.016489s)
+[2018.11.26-18.24.12:488][925]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	GameINS_C /Engine/Transient.UnrealEdEngine_0:GameINS_C_7
+	Function /Game/LRJ/GameINS.GameINS_C:ExecuteUbergraph_GameINS:0D2D
+[2018.11.26-18.24.12:497][925]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.26-18.24.12:510][925]LogInit: FAudioDevice initialized.
+[2018.11.26-18.24.12:541][925]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.26-18.24.12:551][925]LogWorld: Bringing World /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2018.11.27-02.24.12
+[2018.11.26-18.24.12:552][925]LogWorld: Bringing up level for play took: 0.010459
+[2018.11.26-18.24.12:563][925]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.26-18.24.12:565][925]LogScript: Warning: Accessed None trying to read property HUD
+	2DSideScrollerExampleMap_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap_C_0
+	Function /Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C:ExecuteUbergraph_2DSideScrollerExampleMap:0037
+[2018.11.26-18.24.12:565][925]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUD". Blueprint:  2DSideScrollerExampleMap Function:  Execute Ubergraph 2DSide Scroller Example Map Graph:  EventGraph Node:  Add to Viewport
+[2018.11.26-18.24.12:565][925]PIE: Play in editor start time for /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.667
+[2018.11.26-18.24.12:565][925]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.24.14:227][121]LogBlueprintUserMessages: [Container_2] here
+[2018.11.26-18.24.14:576][161]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.24.14:576][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-18.24.14:608][161]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.26-18.24.14:608][161]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.24.14:642][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-18.24.14:692][163]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.11.26-18.24.15:957][293]LogEditorViewport: Clicking Background
+[2018.11.26-18.24.18:475][588]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-18.24.51:536][565]LogSavePackage: Moving '../../../../../Project/JiuSeLu-master112611/JiuSeLu-master1118/JiuSeLu-master1112/JiuSeLu-master1127/Saved/2DSideScrollerExampleMap_Auto11D5A638B4B6B17079B9B4481037FC5D8.tmp' to '../../../../../Project/JiuSeLu-master112611/JiuSeLu-master1118/JiuSeLu-master1112/JiuSeLu-master1127/Saved/Autosaves/Game/cxd/Maps/2DSideScrollerExampleMap_Auto1.umap'
+[2018.11.26-18.24.51:542][565]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/cxd/Maps/2DSideScrollerExampleMap' took 0.405
+[2018.11.26-18.24.51:542][565]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.405
+[2018.11.26-18.24.51:546][565]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/cxd/Maps/第一章全图] ([1] browsable assets)...
+[2018.11.26-18.24.51:550][565]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/cxd/Maps/第一章全图.第一章全图]
+[2018.11.26-18.24.51:550][565]OBJ SavePackage: Finished generating thumbnails for package [/Game/cxd/Maps/第一章全图]
+[2018.11.26-18.24.51:604][565]LogSavePackage: Moving '../../../../../Project/JiuSeLu-master112611/JiuSeLu-master1118/JiuSeLu-master1112/JiuSeLu-master1127/Saved/第一章全图_Auto1F2C0D3DC4CA5920558DE70A9A965F9E9.tmp' to '../../../../../Project/JiuSeLu-master112611/JiuSeLu-master1118/JiuSeLu-master1112/JiuSeLu-master1127/Saved/Autosaves/Game/cxd/Maps/第一章全图_Auto1.uasset'
+[2018.11.26-18.24.51:609][565]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/cxd/Maps/第一章全图_Sprite] ([1] browsable assets)...
+[2018.11.26-18.24.51:616][565]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/cxd/Maps/第一章全图_Sprite.第一章全图_Sprite]
+[2018.11.26-18.24.51:616][565]OBJ SavePackage: Finished generating thumbnails for package [/Game/cxd/Maps/第一章全图_Sprite]
+[2018.11.26-18.24.51:627][565]LogSavePackage: Moving '../../../../../Project/JiuSeLu-master112611/JiuSeLu-master1118/JiuSeLu-master1112/JiuSeLu-master1127/Saved/第一章全图_Sprite_Auto1BF24B0AF4791FF7675D2EEB9AA00C210.tmp' to '../../../../../Project/JiuSeLu-master112611/JiuSeLu-master1118/JiuSeLu-master1112/JiuSeLu-master1127/Saved/Autosaves/Game/cxd/Maps/第一章全图_Sprite_Auto1.uasset'
+[2018.11.26-18.24.51:630][565]LogFileHelpers: Auto-saving content packages took 0.086
+[2018.11.26-18.24.59:417][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-18.25.24:422][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-18.25.39:636][976]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (background)
+[2018.11.26-18.25.42:825][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-18.25.42:942][331]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.26-18.25.42:965][331]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.25.42:965][331]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.26-18.25.42:965][331]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 27, 2018, 10:25:42 AM)
+[2018.11.26-18.25.42:966][331]LogPlayLevel: Creating play world package: /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2018.11.26-18.25.42:980][331]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014818s)
+[2018.11.26-18.25.42:981][331]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.11.26-18.25.42:981][331]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2018.11.26-18.25.42:981][331]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.015760s)
+[2018.11.26-18.25.43:013][331]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	GameINS_C /Engine/Transient.UnrealEdEngine_0:GameINS_C_8
+	Function /Game/LRJ/GameINS.GameINS_C:ExecuteUbergraph_GameINS:0D2D
+[2018.11.26-18.25.43:021][331]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.26-18.25.43:033][331]LogInit: FAudioDevice initialized.
+[2018.11.26-18.25.43:065][331]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.26-18.25.43:075][331]LogWorld: Bringing World /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2018.11.27-02.25.43
+[2018.11.26-18.25.43:077][331]LogWorld: Bringing up level for play took: 0.010678
+[2018.11.26-18.25.43:087][331]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.26-18.25.43:089][331]LogScript: Warning: Accessed None trying to read property HUD
+	2DSideScrollerExampleMap_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap_C_1
+	Function /Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C:ExecuteUbergraph_2DSideScrollerExampleMap:0037
+[2018.11.26-18.25.43:089][331]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUD". Blueprint:  2DSideScrollerExampleMap Function:  Execute Ubergraph 2DSide Scroller Example Map Graph:  EventGraph Node:  Add to Viewport
+[2018.11.26-18.25.43:089][331]PIE: Play in editor start time for /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.81
+[2018.11.26-18.25.43:089][331]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.25.44:751][527]LogBlueprintUserMessages: [Container_2] here
+[2018.11.26-18.25.57:580][ 66]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.25.57:581][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-18.25.57:613][ 66]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.26-18.25.57:614][ 66]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.25.57:652][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-18.25.57:681][ 67]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.11.26-18.26.06:360][999]BlueprintLog: New page: Compile 2DSideScrollerExampleMap
+[2018.11.26-18.26.07:857][156]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.26-18.26.07:875][156]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.26.07:875][156]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.26-18.26.07:876][156]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 27, 2018, 10:26:07 AM)
+[2018.11.26-18.26.07:876][156]LogPlayLevel: Creating play world package: /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2018.11.26-18.26.07:891][156]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014728s)
+[2018.11.26-18.26.07:891][156]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.11.26-18.26.07:892][156]LogPlayLevel: PIE: World Init took: (0.000703s)
+[2018.11.26-18.26.07:892][156]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.015576s)
+[2018.11.26-18.26.07:921][156]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	GameINS_C /Engine/Transient.UnrealEdEngine_0:GameINS_C_9
+	Function /Game/LRJ/GameINS.GameINS_C:ExecuteUbergraph_GameINS:0D2D
+[2018.11.26-18.26.07:929][156]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.26-18.26.07:944][156]LogInit: FAudioDevice initialized.
+[2018.11.26-18.26.07:950][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-18.26.07:982][156]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.26-18.26.07:992][156]LogWorld: Bringing World /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2018.11.27-02.26.07
+[2018.11.26-18.26.07:993][156]LogWorld: Bringing up level for play took: 0.010370
+[2018.11.26-18.26.08:004][156]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.26-18.26.08:006][156]LogScript: Warning: Accessed None trying to read property HUD
+	2DSideScrollerExampleMap_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap_C_2
+	Function /Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C:ExecuteUbergraph_2DSideScrollerExampleMap:0037
+[2018.11.26-18.26.08:006][156]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUD". Blueprint:  2DSideScrollerExampleMap Function:  Execute Ubergraph 2DSide Scroller Example Map Graph:  EventGraph Node:  Add to Viewport
+[2018.11.26-18.26.08:007][156]PIE: Play in editor start time for /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.109
+[2018.11.26-18.26.08:007][156]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.26.09:672][350]LogBlueprintUserMessages: [Container_2] here
+[2018.11.26-18.26.22:443][701]LogSlate: Window 'MyFirst2DProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.26-18.26.22:445][701]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.26.22:478][701]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.26-18.26.22:479][701]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.26.22:540][702]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.11.26-18.26.28:754][420]LogSlate: Window 'Message Log' being destroyed
+[2018.11.26-18.26.28:756][420]LogSlate: Window 'Message Log' being destroyed
+[2018.11.26-18.27.04:339][518]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.26-18.27.04:358][518]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.27.04:358][518]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.11.26-18.27.04:361][518]LogPlayLevel: [PlayLevel] Compiling 2DSideScrollerExampleMap before play...
+[2018.11.26-18.27.04:535][518]LogPlayLevel: PlayLevel: Blueprint regeneration took 177 ms (1 blueprints)
+[2018.11.26-18.27.04:535][518]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 27, 2018, 10:27:04 AM)
+[2018.11.26-18.27.04:536][518]LogPlayLevel: Creating play world package: /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2018.11.26-18.27.04:550][518]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014488s)
+[2018.11.26-18.27.04:551][518]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.11.26-18.27.04:551][518]LogPlayLevel: PIE: World Init took: (0.000819s)
+[2018.11.26-18.27.04:551][518]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.015450s)
+[2018.11.26-18.27.04:580][518]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	GameINS_C /Engine/Transient.UnrealEdEngine_0:GameINS_C_10
+	Function /Game/LRJ/GameINS.GameINS_C:ExecuteUbergraph_GameINS:0D2D
+[2018.11.26-18.27.04:588][518]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.26-18.27.04:602][518]LogInit: FAudioDevice initialized.
+[2018.11.26-18.27.04:608][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-18.27.04:641][518]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.26-18.27.04:651][518]LogWorld: Bringing World /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2018.11.27-02.27.04
+[2018.11.26-18.27.04:652][518]LogWorld: Bringing up level for play took: 0.010471
+[2018.11.26-18.27.04:663][518]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.26-18.27.04:664][518]LogBlueprintUserMessages: [2DSideScrollerExampleMap_C_3] fasdfasdf
+[2018.11.26-18.27.04:665][518]LogScript: Warning: Accessed None trying to read property HUD
+	2DSideScrollerExampleMap_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap_C_3
+	Function /Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C:ExecuteUbergraph_2DSideScrollerExampleMap:00FD
+[2018.11.26-18.27.04:665][518]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUD". Blueprint:  2DSideScrollerExampleMap Function:  Execute Ubergraph 2DSide Scroller Example Map Graph:  EventGraph Node:  Add to Viewport
+[2018.11.26-18.27.04:666][518]PIE: Play in editor start time for /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.767
+[2018.11.26-18.27.04:666][518]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.27.06:163][672]LogBlueprintUserMessages: [Container_2] here
+[2018.11.26-18.27.06:994][770]LogSlate: Window 'MyFirst2DProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.26-18.27.06:997][770]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.27.07:030][770]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.26-18.27.07:030][770]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.27.07:095][771]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.11.26-18.27.17:025][913]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.26-18.27.17:044][913]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.27.17:044][913]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.11.26-18.27.17:047][913]LogPlayLevel: [PlayLevel] Compiling 2DSideScrollerExampleMap before play...
+[2018.11.26-18.27.17:220][913]LogPlayLevel: PlayLevel: Blueprint regeneration took 176 ms (1 blueprints)
+[2018.11.26-18.27.17:221][913]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 27, 2018, 10:27:17 AM)
+[2018.11.26-18.27.17:221][913]LogPlayLevel: Creating play world package: /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2018.11.26-18.27.17:236][913]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014625s)
+[2018.11.26-18.27.17:237][913]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.11.26-18.27.17:237][913]LogPlayLevel: PIE: World Init took: (0.000718s)
+[2018.11.26-18.27.17:237][913]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.015484s)
+[2018.11.26-18.27.17:267][913]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	GameINS_C /Engine/Transient.UnrealEdEngine_0:GameINS_C_11
+	Function /Game/LRJ/GameINS.GameINS_C:ExecuteUbergraph_GameINS:0D2D
+[2018.11.26-18.27.17:275][913]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.26-18.27.17:288][913]LogInit: FAudioDevice initialized.
+[2018.11.26-18.27.17:293][913]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-18.27.17:326][913]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.26-18.27.17:337][913]LogWorld: Bringing World /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2018.11.27-02.27.17
+[2018.11.26-18.27.17:338][913]LogWorld: Bringing up level for play took: 0.010785
+[2018.11.26-18.27.17:349][913]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.26-18.27.17:351][913]LogScript: Warning: Accessed None trying to read property HUD
+	2DSideScrollerExampleMap_C /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap_C_4
+	Function /Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C:ExecuteUbergraph_2DSideScrollerExampleMap:0071
+[2018.11.26-18.27.17:351][913]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUD". Blueprint:  2DSideScrollerExampleMap Function:  Execute Ubergraph 2DSide Scroller Example Map Graph:  EventGraph Node:  Add to Viewport
+[2018.11.26-18.27.17:351][913]LogBlueprintUserMessages: [2DSideScrollerExampleMap_C_4] fasdfasdf
+[2018.11.26-18.27.17:352][913]PIE: Play in editor start time for /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.547
+[2018.11.26-18.27.17:352][913]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.27.18:829][ 84]LogBlueprintUserMessages: [Container_2] here
+[2018.11.26-18.27.32:282][696]LogSlate: Window 'MyFirst2DProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.26-18.27.32:285][696]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.27.32:319][696]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.26-18.27.32:319][696]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.27.32:379][697]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2018.11.26-18.27.59:529][154]LogSlate: Window 'Message Log' being destroyed
+[2018.11.26-18.27.59:530][154]LogSlate: Window 'Message Log' being destroyed
+[2018.11.26-18.29.01:924][574]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.26-18.29.01:943][574]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.29.01:943][574]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.11.26-18.29.01:946][574]LogPlayLevel: [PlayLevel] Compiling 2DSideScrollerExampleMap before play...
+[2018.11.26-18.29.02:120][574]LogPlayLevel: PlayLevel: Blueprint regeneration took 176 ms (1 blueprints)
+[2018.11.26-18.29.02:120][574]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 27, 2018, 10:29:02 AM)
+[2018.11.26-18.29.02:121][574]LogPlayLevel: Creating play world package: /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2018.11.26-18.29.02:136][574]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014664s)
+[2018.11.26-18.29.02:136][574]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.11.26-18.29.02:136][574]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2018.11.26-18.29.02:136][574]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.015631s)
+[2018.11.26-18.29.02:167][574]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	GameINS_C /Engine/Transient.UnrealEdEngine_0:GameINS_C_12
+	Function /Game/LRJ/GameINS.GameINS_C:ExecuteUbergraph_GameINS:0D2D
+[2018.11.26-18.29.02:175][574]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.26-18.29.02:189][574]LogInit: FAudioDevice initialized.
+[2018.11.26-18.29.02:194][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-18.29.02:227][574]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.26-18.29.02:237][574]LogWorld: Bringing World /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2018.11.27-02.29.02
+[2018.11.26-18.29.02:238][574]LogWorld: Bringing up level for play took: 0.011012
+[2018.11.26-18.29.02:249][574]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.26-18.29.02:252][574]PIE: Play in editor start time for /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.352
+[2018.11.26-18.29.02:252][574]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.29.03:728][744]LogBlueprintUserMessages: [Container_2] here
+[2018.11.26-18.29.15:456][144]LogSlate: Window 'MyFirst2DProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.26-18.29.15:459][144]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.29.15:495][144]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.26-18.29.15:495][144]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.29.15:549][145]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2018.11.26-18.29.23:649][959]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.26-18.29.23:667][959]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.29.23:668][959]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.26-18.29.23:668][959]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 27, 2018, 10:29:23 AM)
+[2018.11.26-18.29.23:668][959]LogPlayLevel: Creating play world package: /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2018.11.26-18.29.23:683][959]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014730s)
+[2018.11.26-18.29.23:684][959]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.11.26-18.29.23:684][959]LogPlayLevel: PIE: World Init took: (0.000784s)
+[2018.11.26-18.29.23:684][959]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.015673s)
+[2018.11.26-18.29.23:714][959]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	GameINS_C /Engine/Transient.UnrealEdEngine_0:GameINS_C_13
+	Function /Game/LRJ/GameINS.GameINS_C:ExecuteUbergraph_GameINS:0D2D
+[2018.11.26-18.29.23:722][959]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.26-18.29.23:735][959]LogInit: FAudioDevice initialized.
+[2018.11.26-18.29.23:740][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-18.29.23:772][959]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.26-18.29.23:783][959]LogWorld: Bringing World /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2018.11.27-02.29.23
+[2018.11.26-18.29.23:784][959]LogWorld: Bringing up level for play took: 0.011089
+[2018.11.26-18.29.23:795][959]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.26-18.29.23:798][959]PIE: Play in editor start time for /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.102
+[2018.11.26-18.29.23:798][959]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.29.25:461][153]LogBlueprintUserMessages: [Container_2] here
+[2018.11.26-18.29.26:763][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-18.29.29:364][620]LogBlueprintUserMessages: [LevelSelection_C_0] 0
+[2018.11.26-18.29.30:299][732]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.29.30:300][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-18.29.30:319][732]LogSlate: Window 'MyFirst2DProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.26-18.29.30:353][732]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.26-18.29.30:354][732]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.29.30:407][733]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2018.11.26-18.29.45:586][792]LogSavePackage: Moving '../../../../../Project/JiuSeLu-master112611/JiuSeLu-master1118/JiuSeLu-master1112/JiuSeLu-master1127/Saved/2DSideScrollerExampleMapF782A0EC4885E282346346A98E8F35D8.tmp' to '../../../../../Project/JiuSeLu-master112611/JiuSeLu-master1118/JiuSeLu-master1112/JiuSeLu-master1127/Content/cxd/Maps/2DSideScrollerExampleMap.umap'
+[2018.11.26-18.29.45:634][792]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.499
+[2018.11.26-18.30.32:415][798]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.26-18.30.32:434][798]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.30.32:434][798]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.11.26-18.30.32:437][798]LogPlayLevel: [PlayLevel] Compiling 2DSideScrollerExampleMap before play...
+[2018.11.26-18.30.32:611][798]LogPlayLevel: PlayLevel: Blueprint regeneration took 176 ms (1 blueprints)
+[2018.11.26-18.30.32:611][798]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 27, 2018, 10:30:32 AM)
+[2018.11.26-18.30.32:612][798]LogPlayLevel: Creating play world package: /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2018.11.26-18.30.32:627][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014921s)
+[2018.11.26-18.30.32:627][798]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.11.26-18.30.32:628][798]LogPlayLevel: PIE: World Init took: (0.000914s)
+[2018.11.26-18.30.32:628][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.015996s)
+[2018.11.26-18.30.32:658][798]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	GameINS_C /Engine/Transient.UnrealEdEngine_0:GameINS_C_14
+	Function /Game/LRJ/GameINS.GameINS_C:ExecuteUbergraph_GameINS:0D2D
+[2018.11.26-18.30.32:666][798]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.26-18.30.32:679][798]LogInit: FAudioDevice initialized.
+[2018.11.26-18.30.32:684][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-18.30.32:715][798]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.26-18.30.32:725][798]LogWorld: Bringing World /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2018.11.27-02.30.32
+[2018.11.26-18.30.32:727][798]LogWorld: Bringing up level for play took: 0.010906
+[2018.11.26-18.30.32:737][798]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.26-18.30.32:740][798]PIE: Play in editor start time for /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.839
+[2018.11.26-18.30.32:740][798]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.30.34:253][956]LogBlueprintUserMessages: [Container_2] here
+[2018.11.26-18.30.36:030][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-18.30.39:288][559]LogBlueprintUserMessages: [LevelSelection_C_0] -1
+[2018.11.26-18.30.40:955][759]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-18.30.41:030][768]LogBlueprintUserMessages: [LevelSelection_C_0] -1
+[2018.11.26-18.30.41:997][884]LogScript: Warning: Attempted to access index 3 from array LevelNames of length 3!
+	LevelSelection_C /Engine/Transient.UnrealEdEngine_0:GameINS_C_14.LevelSelection_C_0
+	Function /Game/walker/Widgets/LevelSelection.LevelSelection_C:SwitchLevelNameRight:0644
+[2018.11.26-18.30.41:997][884]PIE: Error: Blueprint Runtime Error: "Attempted to access index 3 from array LevelNames of length 3!". Blueprint:  LevelSelection Function:  Switch Level Name Right Graph:  SwitchLevelNameRight Node:  Set LevelName
+[2018.11.26-18.30.41:997][884]LogScript: Warning: Attempted to access index 3 from array LevelLabelNames of length 3!
+	LevelSelection_C /Engine/Transient.UnrealEdEngine_0:GameINS_C_14.LevelSelection_C_0
+	Function /Game/walker/Widgets/LevelSelection.LevelSelection_C:SwitchLevelNameRight:06DD
+[2018.11.26-18.30.41:997][884]PIE: Error: Blueprint Runtime Error: "Attempted to access index 3 from array LevelLabelNames of length 3!". Blueprint:  LevelSelection Function:  Switch Level Name Right Graph:  SwitchLevelNameRight Node:  Set LevelLabelName
+[2018.11.26-18.30.41:997][884]LogBlueprintUserMessages: [LevelSelection_C_0] 1
+[2018.11.26-18.30.42:572][953]LogBlueprintUserMessages: [LevelSelection_C_0] 0
+[2018.11.26-18.30.43:073][ 13]LogBlueprintUserMessages: [LevelSelection_C_0] -1
+[2018.11.26-18.30.43:582][ 74]LogScript: Warning: Attempted to access index 3 from array LevelNames of length 3!
+	LevelSelection_C /Engine/Transient.UnrealEdEngine_0:GameINS_C_14.LevelSelection_C_0
+	Function /Game/walker/Widgets/LevelSelection.LevelSelection_C:SwitchLevelNameRight:0644
+[2018.11.26-18.30.43:582][ 74]PIE: Error: Blueprint Runtime Error: "Attempted to access index 3 from array LevelNames of length 3!". Blueprint:  LevelSelection Function:  Switch Level Name Right Graph:  SwitchLevelNameRight Node:  Set LevelName
+[2018.11.26-18.30.43:582][ 74]LogScript: Warning: Attempted to access index 3 from array LevelLabelNames of length 3!
+	LevelSelection_C /Engine/Transient.UnrealEdEngine_0:GameINS_C_14.LevelSelection_C_0
+	Function /Game/walker/Widgets/LevelSelection.LevelSelection_C:SwitchLevelNameRight:06DD
+[2018.11.26-18.30.43:582][ 74]PIE: Error: Blueprint Runtime Error: "Attempted to access index 3 from array LevelLabelNames of length 3!". Blueprint:  LevelSelection Function:  Switch Level Name Right Graph:  SwitchLevelNameRight Node:  Set LevelLabelName
+[2018.11.26-18.30.43:582][ 74]LogBlueprintUserMessages: [LevelSelection_C_0] 1
+[2018.11.26-18.30.44:040][129]LogBlueprintUserMessages: [LevelSelection_C_0] 0
+[2018.11.26-18.30.44:648][202]LogBlueprintUserMessages: [LevelSelection_C_0] -1
+[2018.11.26-18.30.47:556][551]LogScript: Warning: Attempted to access index 3 from array LevelNames of length 3!
+	LevelSelection_C /Engine/Transient.UnrealEdEngine_0:GameINS_C_14.LevelSelection_C_0
+	Function /Game/walker/Widgets/LevelSelection.LevelSelection_C:SwitchLevelNameRight:0644
+[2018.11.26-18.30.47:557][551]PIE: Error: Blueprint Runtime Error: "Attempted to access index 3 from array LevelNames of length 3!". Blueprint:  LevelSelection Function:  Switch Level Name Right Graph:  SwitchLevelNameRight Node:  Set LevelName
+[2018.11.26-18.30.47:557][551]LogScript: Warning: Attempted to access index 3 from array LevelLabelNames of length 3!
+	LevelSelection_C /Engine/Transient.UnrealEdEngine_0:GameINS_C_14.LevelSelection_C_0
+	Function /Game/walker/Widgets/LevelSelection.LevelSelection_C:SwitchLevelNameRight:06DD
+[2018.11.26-18.30.47:557][551]PIE: Error: Blueprint Runtime Error: "Attempted to access index 3 from array LevelLabelNames of length 3!". Blueprint:  LevelSelection Function:  Switch Level Name Right Graph:  SwitchLevelNameRight Node:  Set LevelLabelName
+[2018.11.26-18.30.47:557][551]LogBlueprintUserMessages: [LevelSelection_C_0] 1
+[2018.11.26-18.30.49:768][816]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.30.49:768][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-18.30.49:787][816]LogSlate: Window 'MyFirst2DProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.26-18.30.49:819][816]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.26-18.30.49:820][816]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.30.49:879][817]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2018.11.26-18.31.08:009][851]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/walker/Widgets/LevelSelection.LevelSelection
+[2018.11.26-18.31.17:812][600]LogSlate: Window 'LevelSelection' being destroyed
+[2018.11.26-18.31.20:570][866]LogSlate: Window 'Message Log' being destroyed
+[2018.11.26-18.31.39:725][358]LogSlate: Window 'Message Log' being destroyed
+[2018.11.26-18.31.39:728][358]LogSlate: Window 'Message Log' being destroyed
+[2018.11.26-18.31.46:437][ 50]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (background)
+[2018.11.26-18.31.56:817][ 22]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (background)
+[2018.11.26-18.31.57:408][ 84]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (background)
+[2018.11.26-18.31.58:966][246]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-18.32.00:203][376]LogAssetEditorManager: Opening Asset editor for LevelSequence /Game/cxd/Maps/movieAfterLoadSequence.movieAfterLoadSequence
+[2018.11.26-18.32.51:837][986]LogSavePackage: Moving '../../../../../Project/JiuSeLu-master112611/JiuSeLu-master1118/JiuSeLu-master1112/JiuSeLu-master1127/Saved/movieAfterLoadSequence2320C715434A7BBC66495E88480D0406.tmp' to '../../../../../Project/JiuSeLu-master112611/JiuSeLu-master1118/JiuSeLu-master1112/JiuSeLu-master1127/Content/cxd/Maps/movieAfterLoadSequence.uasset'
+[2018.11.26-18.32.53:466][131]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.26-18.32.53:493][131]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.32.53:494][131]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.26-18.32.53:494][131]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 27, 2018, 10:32:53 AM)
+[2018.11.26-18.32.53:494][131]LogPlayLevel: Creating play world package: /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2018.11.26-18.32.53:509][131]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015022s)
+[2018.11.26-18.32.53:510][131]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.11.26-18.32.53:510][131]LogPlayLevel: PIE: World Init took: (0.000980s)
+[2018.11.26-18.32.53:510][131]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.016155s)
+[2018.11.26-18.32.53:545][131]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	GameINS_C /Engine/Transient.UnrealEdEngine_0:GameINS_C_15
+	Function /Game/LRJ/GameINS.GameINS_C:ExecuteUbergraph_GameINS:0D2D
+[2018.11.26-18.32.53:578][131]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.26-18.32.53:591][131]LogInit: FAudioDevice initialized.
+[2018.11.26-18.32.53:621][131]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.26-18.32.53:631][131]LogWorld: Bringing World /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2018.11.27-02.32.53
+[2018.11.26-18.32.53:633][131]LogWorld: Bringing up level for play took: 0.010695
+[2018.11.26-18.32.53:643][131]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.26-18.32.53:645][131]PIE: Play in editor start time for /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.257
+[2018.11.26-18.32.53:645][131]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.32.55:281][322]LogBlueprintUserMessages: [Container_2] here
+[2018.11.26-18.33.08:102][835]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.33.08:102][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-18.33.08:136][835]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.26-18.33.08:137][835]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.33.08:170][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-18.33.08:213][837]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2018.11.26-18.33.24:877][688]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.26-18.33.24:899][688]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.33.24:899][688]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.26-18.33.24:899][688]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 27, 2018, 10:33:24 AM)
+[2018.11.26-18.33.24:900][688]LogPlayLevel: Creating play world package: /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2018.11.26-18.33.24:915][688]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014963s)
+[2018.11.26-18.33.24:915][688]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.11.26-18.33.24:916][688]LogPlayLevel: PIE: World Init took: (0.000764s)
+[2018.11.26-18.33.24:916][688]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.015895s)
+[2018.11.26-18.33.24:947][688]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	GameINS_C /Engine/Transient.UnrealEdEngine_0:GameINS_C_16
+	Function /Game/LRJ/GameINS.GameINS_C:ExecuteUbergraph_GameINS:0D2D
+[2018.11.26-18.33.24:956][688]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.26-18.33.24:969][688]LogInit: FAudioDevice initialized.
+[2018.11.26-18.33.24:975][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-18.33.25:007][688]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.26-18.33.25:017][688]LogWorld: Bringing World /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2018.11.27-02.33.25
+[2018.11.26-18.33.25:018][688]LogWorld: Bringing up level for play took: 0.010882
+[2018.11.26-18.33.25:029][688]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.26-18.33.25:032][688]PIE: Play in editor start time for /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap 1.13
+[2018.11.26-18.33.25:033][688]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.33.26:687][880]LogBlueprintUserMessages: [Container_2] here
+[2018.11.26-18.33.35:239][896]LogSlate: Window 'MyFirst2DProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.26-18.33.35:243][896]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.33.35:276][896]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.26-18.33.35:277][896]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.33.35:341][897]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2018.11.26-18.34.19:421][867]LogEditorViewport: Clicking Background
+[2018.11.26-18.34.22:078][ 71]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (background)
+[2018.11.26-18.34.22:770][127]LogEditorViewport: Clicking on Actor (LMB): movieAfterLoad_C (movieAfterLoad)
+[2018.11.26-18.34.34:519][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-18.35.24:057][963]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-18.35.36:373][970]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-18.36.14:424][ 95]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.26-18.36.14:448][ 95]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.36.14:448][ 95]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.26-18.36.14:448][ 95]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 27, 2018, 10:36:14 AM)
+[2018.11.26-18.36.14:449][ 95]LogPlayLevel: Creating play world package: /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2018.11.26-18.36.14:464][ 95]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014797s)
+[2018.11.26-18.36.14:464][ 95]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.11.26-18.36.14:465][ 95]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2018.11.26-18.36.14:465][ 95]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.015772s)
+[2018.11.26-18.36.14:499][ 95]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	GameINS_C /Engine/Transient.UnrealEdEngine_0:GameINS_C_17
+	Function /Game/LRJ/GameINS.GameINS_C:ExecuteUbergraph_GameINS:0D2D
+[2018.11.26-18.36.14:530][ 95]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.26-18.36.14:543][ 95]LogInit: FAudioDevice initialized.
+[2018.11.26-18.36.14:549][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-18.36.14:580][ 95]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.26-18.36.14:591][ 95]LogWorld: Bringing World /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2018.11.27-02.36.14
+[2018.11.26-18.36.14:592][ 95]LogWorld: Bringing up level for play took: 0.011231
+[2018.11.26-18.36.14:603][ 95]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.26-18.36.14:606][ 95]PIE: Play in editor start time for /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.702
+[2018.11.26-18.36.14:607][ 95]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.36.16:236][284]LogBlueprintUserMessages: [Container_2] here
+[2018.11.26-18.36.25:183][351]LogSlate: Window 'MyFirst2DProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.26-18.36.25:187][351]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.36.25:222][351]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.26-18.36.25:223][351]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.36.25:288][352]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2018.11.26-18.36.28:192][684]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (background)
+[2018.11.26-18.36.34:562][264]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-18.36.35:220][343]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.26-18.36.35:242][343]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.36.35:242][343]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.26-18.36.35:242][343]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 27, 2018, 10:36:35 AM)
+[2018.11.26-18.36.35:243][343]LogPlayLevel: Creating play world package: /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2018.11.26-18.36.35:258][343]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014459s)
+[2018.11.26-18.36.35:258][343]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.11.26-18.36.35:258][343]LogPlayLevel: PIE: World Init took: (0.000707s)
+[2018.11.26-18.36.35:258][343]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.015312s)
+[2018.11.26-18.36.35:292][343]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	GameINS_C /Engine/Transient.UnrealEdEngine_0:GameINS_C_18
+	Function /Game/LRJ/GameINS.GameINS_C:ExecuteUbergraph_GameINS:0D2D
+[2018.11.26-18.36.35:300][343]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.26-18.36.35:313][343]LogInit: FAudioDevice initialized.
+[2018.11.26-18.36.35:319][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-18.36.35:347][343]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.26-18.36.35:358][343]LogWorld: Bringing World /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2018.11.27-02.36.35
+[2018.11.26-18.36.35:359][343]LogWorld: Bringing up level for play took: 0.010671
+[2018.11.26-18.36.35:370][343]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.26-18.36.35:373][343]PIE: Play in editor start time for /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.531
+[2018.11.26-18.36.35:373][343]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.36.37:035][536]LogBlueprintUserMessages: [Container_2] here
+[2018.11.26-18.36.54:929][681]LogSlate: Window 'MyFirst2DProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.26-18.36.54:932][681]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.36.54:966][681]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.26-18.36.54:967][681]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.36.55:031][682]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2018.11.26-18.37.07:716][140]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2018.11.26-18.37.12:516][519]LogEditorViewport: Clicking on Actor (LMB): Block_C (Block14)
+[2018.11.26-18.37.13:854][642]LogEditorViewport: Clicking on Actor (LMB): Block_C (Block15)
+[2018.11.26-18.37.14:225][672]Cmd: DELETE
+[2018.11.26-18.37.14:225][672]Cmd: ACTOR DELETE
+[2018.11.26-18.37.14:231][672]LogEditorActor: Deleted Actor: Block_C
+[2018.11.26-18.37.14:265][672]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2018.11.26-18.37.14:737][724]LogEditorViewport: Clicking on Actor (LMB): Block_C (Block14)
+[2018.11.26-18.37.15:042][748]Cmd: DELETE
+[2018.11.26-18.37.15:042][748]Cmd: ACTOR DELETE
+[2018.11.26-18.37.15:048][748]LogEditorActor: Deleted Actor: Block_C
+[2018.11.26-18.37.15:081][748]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2018.11.26-18.37.15:464][790]LogEditorViewport: Clicking on Actor (LMB): Block_C (Block13)
+[2018.11.26-18.37.15:721][809]Cmd: DELETE
+[2018.11.26-18.37.15:721][809]Cmd: ACTOR DELETE
+[2018.11.26-18.37.15:727][809]LogEditorActor: Deleted Actor: Block_C
+[2018.11.26-18.37.15:761][809]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2018.11.26-18.37.16:170][854]LogEditorViewport: Clicking on Actor (LMB): Block_C (Block12)
+[2018.11.26-18.37.16:455][876]Cmd: DELETE
+[2018.11.26-18.37.16:455][876]Cmd: ACTOR DELETE
+[2018.11.26-18.37.16:461][876]LogEditorActor: Deleted Actor: Block_C
+[2018.11.26-18.37.16:494][876]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2018.11.26-18.37.16:861][916]LogEditorViewport: Clicking on Actor (LMB): Block_C (Block17)
+[2018.11.26-18.37.17:108][935]Cmd: DELETE
+[2018.11.26-18.37.17:108][935]Cmd: ACTOR DELETE
+[2018.11.26-18.37.17:113][935]LogEditorActor: Deleted Actor: Block_C
+[2018.11.26-18.37.17:146][935]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2018.11.26-18.37.17:539][978]LogEditorViewport: Clicking on Actor (LMB): Block_C (Block19)
+[2018.11.26-18.37.17:747][993]Cmd: DELETE
+[2018.11.26-18.37.17:747][993]Cmd: ACTOR DELETE
+[2018.11.26-18.37.17:753][993]LogEditorActor: Deleted Actor: Block_C
+[2018.11.26-18.37.17:786][993]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2018.11.26-18.37.18:118][ 29]LogEditorViewport: Clicking on Actor (LMB): Block_C (Block18)
+[2018.11.26-18.37.18:352][ 46]Cmd: DELETE
+[2018.11.26-18.37.18:352][ 46]Cmd: ACTOR DELETE
+[2018.11.26-18.37.18:357][ 46]LogEditorActor: Deleted Actor: Block_C
+[2018.11.26-18.37.18:390][ 46]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2018.11.26-18.37.18:702][ 79]LogEditorViewport: Clicking on Actor (LMB): Block_C (Block16)
+[2018.11.26-18.37.18:914][ 95]Cmd: DELETE
+[2018.11.26-18.37.18:914][ 95]Cmd: ACTOR DELETE
+[2018.11.26-18.37.18:920][ 95]LogEditorActor: Deleted Actor: Block_C
+[2018.11.26-18.37.18:953][ 95]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2018.11.26-18.37.48:871][180]LogEditorViewport: Clicking on Actor (LMB): Container_C (Container)
+[2018.11.26-18.37.53:043][558]LogEditorViewport: Clicking on Actor (LMB): Container_C (Container3)
+[2018.11.26-18.37.55:571][782]LogEditorViewport: Clicking on Actor (LMB): Container_C (Container2)
+[2018.11.26-18.37.57:997][996]LogEditorViewport: Clicking on Actor (LMB): Container_C (Container1)
+[2018.11.26-18.38.00:019][171]LogEditorViewport: Clicking on Actor (LMB): gameManager_C (gameManager)
+[2018.11.26-18.38.04:832][611]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (background)
+[2018.11.26-18.38.05:906][704]LogEditorViewport: Clicking on Actor (LMB): MirrorBlock_C (MirrorBlock)
+[2018.11.26-18.38.08:939][978]LogEditorViewport: Clicking on Actor (LMB): Block_C (0)
+[2018.11.26-18.38.20:043][ 17]LogEditorViewport: Clicking on Actor (LMB): Block_C (4)
+[2018.11.26-18.38.23:653][343]LogEditorViewport: Clicking on Actor (LMB): Block_C (3)
+[2018.11.26-18.38.27:507][694]LogEditorViewport: Clicking on Actor (LMB): Block_C (2)
+[2018.11.26-18.38.30:684][980]LogEditorViewport: Clicking on Actor (LMB): Block_C (1)
+[2018.11.26-18.38.34:577][335]LogEditorViewport: Clicking on Actor (LMB): LinkObject_C (LinkObject2)
+[2018.11.26-18.38.37:190][567]LogEditorViewport: Clicking on Actor (LMB): LinkObject_C (LinkObject3)
+[2018.11.26-18.38.40:068][828]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (background)
+[2018.11.26-18.38.41:107][917]LogEditorViewport: Clicking on Actor (LMB): LinkObject_C (LinkObject)
+[2018.11.26-18.38.44:091][180]LogEditorViewport: Clicking on Actor (LMB): LinkObject_C (LinkObject4)
+[2018.11.26-18.38.46:790][421]LogEditorViewport: Clicking on Actor (LMB): LinkObject_C (LinkObject5)
+[2018.11.26-18.38.51:264][828]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (background)
+[2018.11.26-18.38.52:646][949]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2018.11.26-18.38.57:698][344]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-18.39.03:974][919]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/cxd/Maps/gameManager.gameManager
+[2018.11.26-18.39.14:167][665]BlueprintLog: New page: Compile gameManager
+[2018.11.26-18.39.15:339][711]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.26-18.39.15:393][711]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.39.15:393][711]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.26-18.39.15:393][711]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 27, 2018, 10:39:15 AM)
+[2018.11.26-18.39.15:394][711]LogPlayLevel: Creating play world package: /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2018.11.26-18.39.15:406][711]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011828s)
+[2018.11.26-18.39.15:406][711]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.11.26-18.39.15:406][711]LogPlayLevel: PIE: World Init took: (0.000778s)
+[2018.11.26-18.39.15:406][711]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.012784s)
+[2018.11.26-18.39.15:440][711]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	GameINS_C /Engine/Transient.UnrealEdEngine_0:GameINS_C_19
+	Function /Game/LRJ/GameINS.GameINS_C:ExecuteUbergraph_GameINS:0D2D
+[2018.11.26-18.39.15:481][711]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.26-18.39.15:506][711]LogInit: FAudioDevice initialized.
+[2018.11.26-18.39.15:514][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-18.39.15:546][711]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.26-18.39.15:556][711]LogWorld: Bringing World /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2018.11.27-02.39.15
+[2018.11.26-18.39.15:557][711]LogWorld: Bringing up level for play took: 0.010101
+[2018.11.26-18.39.15:568][711]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.26-18.39.15:572][711]PIE: Play in editor start time for /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.333
+[2018.11.26-18.39.15:572][711]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.39.15:870][714]LogBlueprintUserMessages: [Container_2] here
+[2018.11.26-18.39.29:721][653]LogBlueprintUserMessages: [0] 1
+[2018.11.26-18.39.29:722][653]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Mirror_ref_4_EB9F438046D2613DBAE98AAA55CFC910' of length 0 in '/Game/DataStructure/MirrorRef.MirrorRef'!
+[2018.11.26-18.39.30:073][676]LogBlueprintUserMessages: [3] 2
+[2018.11.26-18.39.30:074][676]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Mirror_ref_4_EB9F438046D2613DBAE98AAA55CFC910' of length 0 in '/Game/DataStructure/MirrorRef.MirrorRef'!
+[2018.11.26-18.39.30:074][676]LogBlueprintUserMessages: [4] Level Completed!
+[2018.11.26-18.39.30:074][676]LogBlueprintUserMessages: [gameManager_2] setguoguan
+[2018.11.26-18.39.30:074][676]LogBlueprintUserMessages: [4] here
+[2018.11.26-18.39.35:101][ 12]LogBlueprintUserMessages: [Block6_17] 1
+[2018.11.26-18.39.35:101][ 12]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Mirror_ref_4_EB9F438046D2613DBAE98AAA55CFC910' of length 0 in '/Game/DataStructure/MirrorRef.MirrorRef'!
+[2018.11.26-18.39.35:436][ 34]LogBlueprintUserMessages: [Block2_5] 2
+[2018.11.26-18.39.35:436][ 34]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Mirror_ref_4_EB9F438046D2613DBAE98AAA55CFC910' of length 0 in '/Game/DataStructure/MirrorRef.MirrorRef'!
+[2018.11.26-18.39.35:436][ 34]LogBlueprintUserMessages: [Block_2] Level Completed!
+[2018.11.26-18.39.35:436][ 34]LogBlueprintUserMessages: [gameManager_2] setguoguan
+[2018.11.26-18.39.35:437][ 34]LogBlueprintUserMessages: [Block_2] here
+[2018.11.26-18.39.38:730][253]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-18.39.38:833][259]LogSlate: Window 'MyFirst2DProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.26-18.39.38:836][259]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.39.38:900][259]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.26-18.39.38:901][259]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.39.39:135][260]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2018.11.26-18.39.45:820][906]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2018.11.26-18.39.53:678][586]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2018.11.26-18.39.53:757][587]LogEditorViewport: Clicking on Component (LMB): PaperFlipbookComponent (Sprite0)
+[2018.11.26-18.40.06:744][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-18.40.09:426][997]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/cxd/Maps/movieAfterLoad.movieAfterLoad
+[2018.11.26-18.40.31:771][909]LogSavePackage: Moving '../../../../../Project/JiuSeLu-master112611/JiuSeLu-master1118/JiuSeLu-master1112/JiuSeLu-master1127/Saved/movieAfterLoadSequence2B3B332D4F200705055D1DAB3198E6CD.tmp' to '../../../../../Project/JiuSeLu-master112611/JiuSeLu-master1118/JiuSeLu-master1112/JiuSeLu-master1127/Content/cxd/Maps/movieAfterLoadSequence.uasset'
+[2018.11.26-18.40.33:195][ 13]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.26-18.40.33:221][ 13]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.40.33:221][ 13]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.26-18.40.33:221][ 13]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 27, 2018, 10:40:33 AM)
+[2018.11.26-18.40.33:221][ 13]LogPlayLevel: Creating play world package: /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2018.11.26-18.40.33:234][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012196s)
+[2018.11.26-18.40.33:234][ 13]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.11.26-18.40.33:234][ 13]LogPlayLevel: PIE: World Init took: (0.000731s)
+[2018.11.26-18.40.33:235][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.013082s)
+[2018.11.26-18.40.33:272][ 13]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	GameINS_C /Engine/Transient.UnrealEdEngine_0:GameINS_C_20
+	Function /Game/LRJ/GameINS.GameINS_C:ExecuteUbergraph_GameINS:0D2D
+[2018.11.26-18.40.33:306][ 13]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.26-18.40.33:320][ 13]LogInit: FAudioDevice initialized.
+[2018.11.26-18.40.33:326][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-18.40.33:365][ 13]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.26-18.40.33:374][ 13]LogWorld: Bringing World /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2018.11.27-02.40.33
+[2018.11.26-18.40.33:375][ 13]LogWorld: Bringing up level for play took: 0.008225
+[2018.11.26-18.40.33:385][ 13]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.26-18.40.33:394][ 13]PIE: Play in editor start time for /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.512
+[2018.11.26-18.40.33:395][ 13]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.40.34:486][ 63]LogBlueprintUserMessages: [Container_2] here
+[2018.11.26-18.40.39:023][282]LogSlate: Window 'MyFirst2DProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.26-18.40.39:029][282]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.40.39:095][282]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.26-18.40.39:096][282]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.40.39:333][283]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2018.11.26-18.40.43:934][691]LogSavePackage: Moving '../../../../../Project/JiuSeLu-master112611/JiuSeLu-master1118/JiuSeLu-master1112/JiuSeLu-master1127/Saved/movieAfterLoadSequence975FF51E45B9D2ED3758F386B4C5F0B9.tmp' to '../../../../../Project/JiuSeLu-master112611/JiuSeLu-master1118/JiuSeLu-master1112/JiuSeLu-master1127/Content/cxd/Maps/movieAfterLoadSequence.uasset'
+[2018.11.26-18.40.50:799][450]LogSavePackage: Moving '../../../../../Project/JiuSeLu-master112611/JiuSeLu-master1118/JiuSeLu-master1112/JiuSeLu-master1127/Saved/movieAfterLoadSequence546716EC422DDB94AE9B5ABEE58315FE.tmp' to '../../../../../Project/JiuSeLu-master112611/JiuSeLu-master1118/JiuSeLu-master1112/JiuSeLu-master1127/Content/cxd/Maps/movieAfterLoadSequence.uasset'
+[2018.11.26-18.40.52:303][558]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.26-18.40.52:328][558]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.40.52:328][558]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.26-18.40.52:328][558]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 27, 2018, 10:40:52 AM)
+[2018.11.26-18.40.52:329][558]LogPlayLevel: Creating play world package: /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2018.11.26-18.40.52:341][558]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011720s)
+[2018.11.26-18.40.52:341][558]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.11.26-18.40.52:342][558]LogPlayLevel: PIE: World Init took: (0.000718s)
+[2018.11.26-18.40.52:342][558]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.012596s)
+[2018.11.26-18.40.52:375][558]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	GameINS_C /Engine/Transient.UnrealEdEngine_0:GameINS_C_21
+	Function /Game/LRJ/GameINS.GameINS_C:ExecuteUbergraph_GameINS:0D2D
+[2018.11.26-18.40.52:384][558]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.26-18.40.52:397][558]LogInit: FAudioDevice initialized.
+[2018.11.26-18.40.52:402][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-18.40.52:443][558]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.26-18.40.52:451][558]LogWorld: Bringing World /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2018.11.27-02.40.52
+[2018.11.26-18.40.52:452][558]LogWorld: Bringing up level for play took: 0.008087
+[2018.11.26-18.40.52:463][558]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.26-18.40.52:473][558]PIE: Play in editor start time for /Game/cxd/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.566
+[2018.11.26-18.40.52:473][558]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.40.53:576][607]LogBlueprintUserMessages: [Container_2] here
+[2018.11.26-18.41.09:795][365]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Mirror_ref_4_EB9F438046D2613DBAE98AAA55CFC910' of length 0 in '/Game/DataStructure/MirrorRef.MirrorRef'!
+[2018.11.26-18.41.10:165][382]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Mirror_ref_4_EB9F438046D2613DBAE98AAA55CFC910' of length 0 in '/Game/DataStructure/MirrorRef.MirrorRef'!
+[2018.11.26-18.41.10:469][396]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Mirror_ref_4_EB9F438046D2613DBAE98AAA55CFC910' of length 0 in '/Game/DataStructure/MirrorRef.MirrorRef'!
+[2018.11.26-18.41.10:930][417]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Mirror_ref_4_EB9F438046D2613DBAE98AAA55CFC910' of length 0 in '/Game/DataStructure/MirrorRef.MirrorRef'!
+[2018.11.26-18.41.11:167][428]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Mirror_ref_4_EB9F438046D2613DBAE98AAA55CFC910' of length 0 in '/Game/DataStructure/MirrorRef.MirrorRef'!
+[2018.11.26-18.41.11:430][440]LogBlueprintUserMessages: [0] 1
+[2018.11.26-18.41.11:430][440]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Mirror_ref_4_EB9F438046D2613DBAE98AAA55CFC910' of length 0 in '/Game/DataStructure/MirrorRef.MirrorRef'!
+[2018.11.26-18.41.11:825][458]LogBlueprintUserMessages: [3] 2
+[2018.11.26-18.41.11:825][458]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Mirror_ref_4_EB9F438046D2613DBAE98AAA55CFC910' of length 0 in '/Game/DataStructure/MirrorRef.MirrorRef'!
+[2018.11.26-18.41.11:825][458]LogBlueprintUserMessages: [4] Level Completed!
+[2018.11.26-18.41.11:825][458]LogBlueprintUserMessages: [gameManager_2] setguoguan
+[2018.11.26-18.41.11:825][458]LogBlueprintUserMessages: [4] here
+[2018.11.26-18.41.18:544][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-18.41.18:686][780]LogSlate: Window 'MyFirst2DProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.26-18.41.18:691][780]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.41.18:753][780]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.26-18.41.18:754][780]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.26-18.41.18:992][781]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2018.11.26-18.41.31:351][ 49]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2018.11.26-18.41.38:862][582]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2018.11.26-18.41.39:997][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-18.42.03:232][601]Cmd: TRANSACTION UNDO
+[2018.11.26-18.42.03:232][601]LogEditorTransaction: Undo Move Components
+[2018.11.26-18.42.06:689][601]LogStats: FPlatformStackWalk::StackWalkAndDump -  3.283 s
+[2018.11.26-18.42.06:689][601]LogOutputDevice: Error: === Handled ensure: ===
+[2018.11.26-18.42.06:689][601]LogOutputDevice: Error: 
+[2018.11.26-18.42.06:689][601]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2103]
+[2018.11.26-18.42.06:689][601]LogOutputDevice: Error: 
+[2018.11.26-18.42.06:689][601]LogOutputDevice: Error: Stack: 
+[2018.11.26-18.42.06:689][601]LogOutputDevice: Error: [Callstack] 0x000007fec36a71f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.26-18.42.06:689][601]LogOutputDevice: Error: [Callstack] 0x000007fec33e0c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.26-18.42.06:689][601]LogOutputDevice: Error: [Callstack] 0x000007fec33fb356 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.26-18.42.06:689][601]LogOutputDevice: Error: [Callstack] 0x000007fec077f1e8 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.26-18.42.06:689][601]LogOutputDevice: Error: [Callstack] 0x000007feb9984c25 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.26-18.42.06:689][601]LogOutputDevice: Error: [Callstack] 0x000007feb99b01fb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.26-18.42.06:689][601]LogOutputDevice: Error: [Callstack] 0x000007feb9996535 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.26-18.42.06:689][601]LogOutputDevice: Error: [Callstack] 0x000007feb9a02dc5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.26-18.42.06:689][601]LogOutputDevice: Error: [Callstack] 0x000007feb9a49b6d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.26-18.42.06:689][601]LogOutputDevice: Error: [Callstack] 0x000007feb99dc81f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.26-18.42.06:689][601]LogOutputDevice: Error: [Callstack] 0x000007feb999599c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.26-18.42.06:689][601]LogOutputDevice: Error: [Callstack] 0x000007feb998f5d6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.26-18.42.06:689][601]LogOutputDevice: Error: [Callstack] 0x000007feba26da43 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.26-18.42.06:689][601]LogOutputDevice: Error: [Callstack] 0x000007fea55977ce UE4Editor-MainFrame.dll!UnknownFunction []
+[2018.11.26-18.42.06:689][601]LogOutputDevice: Error: [Callstack] 0x000007fea5597bee UE4Editor-MainFrame.dll!UnknownFunction []
+[2018.11.26-18.42.06:689][601]LogOutputDevice: Error: [Callstack] 0x000007febf6424df UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.26-18.42.06:689][601]LogOutputDevice: Error: [Callstack] 0x000007febf68437e UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.26-18.42.06:689][601]LogOutputDevice: Error: [Callstack] 0x000007fea55a71a2 UE4Editor-MainFrame.dll!UnknownFunction []
+[2018.11.26-18.42.06:689][601]LogOutputDevice: Error: [Callstack] 0x000007fea5597679 UE4Editor-MainFrame.dll!UnknownFunction []
+[2018.11.26-18.42.06:689][601]LogOutputDevice: Error: [Callstack] 0x000007febf6860e9 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.26-18.42.06:690][601]LogOutputDevice: Error: [Callstack] 0x000007febf679846 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.26-18.42.06:690][601]LogOutputDevice: Error: [Callstack] 0x000007fec6dfce45 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.26-18.42.06:690][601]LogOutputDevice: Error: [Callstack] 0x000007fec6df0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.26-18.42.06:690][601]LogOutputDevice: Error: [Callstack] 0x000007fec6dff4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.26-18.42.06:690][601]LogOutputDevice: Error: [Callstack] 0x000007fec6dec209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.26-18.42.06:690][601]LogOutputDevice: Error: [Callstack] 0x0000000076d99bbd USER32.dll!UnknownFunction []
+[2018.11.26-18.42.06:690][601]LogOutputDevice: Error: [Callstack] 0x0000000076d998c2 USER32.dll!UnknownFunction []
+[2018.11.26-18.42.06:690][601]LogOutputDevice: Error: [Callstack] 0x000007fec6e00646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.26-18.42.06:690][601]LogOutputDevice: Error: [Callstack] 0x000000013fb954e5 UE4Editor.exe!UnknownFunction []
+[2018.11.26-18.42.06:690][601]LogOutputDevice: Error: [Callstack] 0x000000013fba5b3c UE4Editor.exe!UnknownFunction []
+[2018.11.26-18.42.06:690][601]LogOutputDevice: Error: [Callstack] 0x000000013fba5bba UE4Editor.exe!UnknownFunction []
+[2018.11.26-18.42.06:690][601]LogOutputDevice: Error: [Callstack] 0x000000013fbb3dac UE4Editor.exe!UnknownFunction []
+[2018.11.26-18.42.06:690][601]LogOutputDevice: Error: [Callstack] 0x000000013fbb5aaa UE4Editor.exe!UnknownFunction []
+[2018.11.26-18.42.06:690][601]LogOutputDevice: Error: [Callstack] 0x0000000076c759cd kernel32.dll!UnknownFunction []
+[2018.11.26-18.42.06:690][601]LogOutputDevice: Error: [Callstack] 0x0000000076ed383d ntdll.dll!UnknownFunction []
+[2018.11.26-18.42.06:690][601]LogOutputDevice: Error: 
+[2018.11.26-18.42.06:713][601]LogStats:                SubmitErrorReport -  0.019 s
